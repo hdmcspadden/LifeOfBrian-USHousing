@@ -1,0 +1,14 @@
+yr,period,frequency,location_name,median_rent_price,mean_rent_price
+,,,,,
+2017,1,year,"Richmond, VA","$1,060","$1,059"
+2016,1,year,"Richmond, VA","$1,036","$1,050"
+2015,1,year,"Richmond, VA","$1,048","$1,056"
+2014,1,year,"Richmond, VA","$1,035","$1,022"
+2013,1,year,"Richmond, VA",$979,$982
+2012,1,year,"Richmond, VA",$969,$961
+2011,1,year,"Richmond, VA",$969,$940
+2010,1,year,"Richmond, VA",$979,$976
+2009,1,year,"Richmond, VA",$996,$992
+2008,1,year,"Richmond, VA",$995,$965
+2007,1,year,"Richmond, VA",$946,$931
+2006,1,year,"Richmond, VA",$944,$922
