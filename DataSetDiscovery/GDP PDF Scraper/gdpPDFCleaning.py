@@ -21,16 +21,18 @@ class YearlyGDP():
 #       -yearStart: the first year of data you want pulled from the table
 #       -yearEnd: the last year of data you want pulled from the table (do not
 #                 choose the year that is estimated, usually the last year)
+#       -dollars: current year dollars that the numbers are in
 #       -df: optional; only meant to initialize a df instance for the class
 #            object that can be edited by instance
 # =============================================================================
     
     
-    def __init__(self, file, pageNum, yearStart, yearEnd, df = pd.DataFrame()):
+    def __init__(self, file, pageNum, yearStart, yearEnd, dollars, df = pd.DataFrame()):
         self.file = file
         self.pageNum = pageNum
         self.yearStart = yearStart
         self.yearEnd = yearEnd
+        self.dollars = dollars
         self.df = df
     
     
@@ -117,7 +119,7 @@ class YearlyGDP():
                     # assign the string to the area variable
                     area = self.df.loc[i, columnName]
                     #clean out periods and white space using re
-                    clean_areas.append(' '.join(re.sub("[\s\.*]"," ", area).split()))
+                    clean_areas.append(' '.join(re.sub("[\s\.\/0-9*]"," ", area).split()))
             except TypeError:
                 # if a string is fed into the math.isnan() function, it throws
                 # a type error; since string is what we want, we just do the re
@@ -125,7 +127,7 @@ class YearlyGDP():
                 # assign the string to the area variable
                 area = self.df.loc[i, columnName]
                 #clean out periods and white space using re
-                clean_areas.append(' '.join(re.sub("[\s\.*]"," ", area).split()))
+                clean_areas.append(' '.join(re.sub("[\s\.\/0-9*]"," ", area).split()))
             
         # Loop through the list to add the cleaned areas back into the DataFrame
         # using loc() method
@@ -258,6 +260,7 @@ class YearlyGDP():
             for state in states:
                 GDPdf.loc[count, 'year'] = str(year)
                 GDPdf.loc[count, 'state'] = state
+                GDPdf.loc[count, 'current dollars'] = self.dollars
                 GDPdf.loc[count, 'GDP'] = self.df.loc[self.df[columnNameofStates] == state, str(year)].item()
                 GDPdf.loc[count, 'GDP_area'] = self.df.loc[self.df[columnNameofStates] == state, 'Geo Loc'].item()
                 count += 1
