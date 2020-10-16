@@ -261,7 +261,8 @@ class YearlyGDP():
                 GDPdf.loc[count, 'year'] = str(year)
                 GDPdf.loc[count, 'state'] = state
                 GDPdf.loc[count, 'current dollars'] = self.dollars
-                GDPdf.loc[count, 'GDP'] = self.df.loc[self.df[columnNameofStates] == state, str(year)].item()
+                GDPdf.loc[count, 'GDP'] = float(re.sub('[,*]','',
+                                                 self.df.loc[self.df[columnNameofStates] == state, str(year)].item()))
                 GDPdf.loc[count, 'GDP_area'] = self.df.loc[self.df[columnNameofStates] == state, 'Geo Loc'].item()
                 count += 1
         
