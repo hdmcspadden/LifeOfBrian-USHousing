@@ -35,3 +35,15 @@ def inflation_adjust(df):
     
     return df
 
+# Create a function that adjusts a series of data based on 2019_factor. The function accepts a dataframe, which must have
+#a column labeled 'year' and a column labeled 'value'.
+
+# Function to convert a column labeled 'value', from the passed dataframe to 2019 dollars
+# Years can be from anywhere in the range of 1996-2020
+# Need to instantiate the inflation dataframe with following columns:  value	dollar-yr for this to work
+def inflation_adjust_to2019(df, price_dict): 
+    
+    df['inf-adjusted'] = round(df['value']/df['dollar-yr'].map(price_dict))
+    
+    return df
+
