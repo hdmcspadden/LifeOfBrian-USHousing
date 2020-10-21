@@ -9,6 +9,7 @@ from common_functions_Class import COMMONFUNCTIONS
 class CommonFunctionsTestClass(unittest.TestCase): # inherit from unittest.TestCase
     
 
+    # use setup() to define fixtures to use for testing in the unit tests
     def setUp(self):
         # test GDP dataframe to use for test calculations
         self.dfGDP = pd.DataFrame([[1995, 2001, 1000], [2007, 2010, 1000]], columns=['year', 'current dollars', 'GDP'])
