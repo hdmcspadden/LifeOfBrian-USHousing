@@ -866,54 +866,105 @@
 864,2011,Wisconsin,2013,263076.0,Great Lakes
 865,2011,West Virginia,2013,69463.0,Southeast
 866,2011,Wyoming,2013,43178.0,Rocky Mountain
-867,2013,Alaska,2014,57276.0,Far West
-868,2013,Alabama,2014,194671.0,Southeast
-869,2013,Arkansas,2014,118553.0,Southeast
-870,2013,Arizona,2014,274734.0,Southwest
-871,2013,California,2014,2212991.0,Far West
-872,2013,Colorado,2014,288338.0,Rocky Mountain
-873,2013,Connecticut,2014,246897.0,New England
-874,2013,District of Columbia,2014,111695.0,Mideast
-875,2013,Delaware,2014,60816.0,Mideast
-876,2013,Florida,2014,800697.0,Southeast
-877,2013,Georgia,2014,456483.0,Southeast
-878,2013,Hawaii,2014,75095.0,Far West
-879,2013,Iowa,2014,166787.0,Plains
-880,2013,Idaho,2014,61117.0,Rocky Mountain
-881,2013,Illinois,2014,724795.0,Great Lakes
-882,2013,Indiana,2014,311188.0,Great Lakes
-883,2013,Kansas,2014,142449.0,Plains
-884,2013,Kentucky,2014,183582.0,Southeast
-885,2013,Louisiana,2014,246660.0,Southeast
-886,2013,Massachusetts,2014,441467.0,New England
-887,2013,Maryland,2014,339409.0,Mideast
-888,2013,Maine,2014,54609.0,New England
-889,2013,Michigan,2014,434674.0,Great Lakes
-890,2013,Minnesota,2014,307270.0,Plains
-891,2013,Missouri,2014,276715.0,Plains
-892,2013,Mississippi,2014,104095.0,Southeast
-893,2013,Montana,2014,43006.0,Rocky Mountain
-894,2013,North Carolina,2014,467075.0,Southeast
-895,2013,North Dakota,2014,51048.0,Plains
-896,2013,Nebraska,2014,109364.0,Plains
-897,2013,New Hampshire,2014,68701.0,New England
-898,2013,New Jersey,2014,537396.0,Mideast
-899,2013,New Mexico,2014,90828.0,Southwest
-900,2013,Nevada,2014,127989.0,Far West
-901,2013,New York,2014,1341591.0,Mideast
-902,2013,Ohio,2014,562845.0,Great Lakes
-903,2013,Oklahoma,2014,176398.0,Southwest
-904,2013,Oregon,2014,204867.0,Far West
-905,2013,Pennsylvania,2014,640294.0,Mideast
-906,2013,Rhode Island,2014,53300.0,New England
-907,2013,South Carolina,2014,182400.0,Southeast
-908,2013,South Dakota,2014,44673.0,Plains
-909,2013,Tennessee,2014,290125.0,Southeast
-910,2013,Texas,2014,1557193.0,Southwest
-911,2013,Utah,2014,134974.0,Rocky Mountain
-912,2013,Virginia,2014,454984.0,Southeast
-913,2013,Vermont,2014,28838.0,New England
-914,2013,Washington,2014,407160.0,Far West
-915,2013,Wisconsin,2014,284728.0,Great Lakes
-916,2013,West Virginia,2014,70595.0,Southeast
-917,2013,Wyoming,2014,41782.0,Rocky Mountain
+867,2012,Alaska,2013,59643.0,Far West
+868,2012,Alabama,2013,189542.0,Southeast
+869,2012,Arkansas,2013,118993.0,Southeast
+870,2012,Arizona,2013,271503.0,Southwest
+871,2012,California,2013,2125717.0,Far West
+872,2012,Colorado,2013,278551.0,Rocky Mountain
+873,2012,Connecticut,2013,242930.0,New England
+874,2012,District of Columbia,2013,111870.0,Mideast
+875,2012,Delaware,2013,60650.0,Mideast
+876,2012,Florida,2013,769007.0,Southeast
+877,2012,Georgia,2013,438324.0,Southeast
+878,2012,Hawaii,2013,72512.0,Far West
+879,2012,Iowa,2013,156606.0,Plains
+880,2012,Idaho,2013,58231.0,Rocky Mountain
+881,2012,Illinois,2013,704138.0,Great Lakes
+882,2012,Indiana,2013,306838.0,Great Lakes
+883,2012,Kansas,2013,138958.0,Plains
+884,2012,Kentucky,2013,177967.0,Southeast
+885,2012,Louisiana,2013,251369.0,Southeast
+886,2012,Massachusetts,2013,431937.0,New England
+887,2012,Maryland,2013,336481.0,Mideast
+888,2012,Maine,2013,53235.0,New England
+889,2012,Michigan,2013,416769.0,Great Lakes
+890,2012,Minnesota,2013,298272.0,Plains
+891,2012,Missouri,2013,269356.0,Plains
+892,2012,Mississippi,2013,101549.0,Southeast
+893,2012,Montana,2013,42140.0,Rocky Mountain
+894,2012,North Carolina,2013,452358.0,Southeast
+895,2012,North Dakota,2013,49509.0,Plains
+896,2012,Nebraska,2013,103062.0,Plains
+897,2012,New Hampshire,2013,66111.0,New England
+898,2012,New Jersey,2013,528788.0,Mideast
+899,2012,New Mexico,2013,89188.0,Southwest
+900,2012,Nevada,2013,128896.0,Far West
+901,2012,New York,2013,1280737.0,Mideast
+902,2012,Ohio,2013,548526.0,Great Lakes
+903,2012,Oklahoma,2013,171432.0,Southwest
+904,2012,Oregon,2013,210242.0,Far West
+905,2012,Pennsylvania,2013,629851.0,Mideast
+906,2012,Rhode Island,2013,51566.0,New England
+907,2012,South Carolina,2013,177985.0,Southeast
+908,2012,South Dakota,2013,43758.0,Plains
+909,2012,Tennessee,2013,280485.0,Southeast
+910,2012,Texas,2013,1463021.0,Southwest
+911,2012,Utah,2013,134483.0,Rocky Mountain
+912,2012,Virginia,2013,445090.0,Southeast
+913,2012,Vermont,2013,28422.0,New England
+914,2012,Washington,2013,390918.0,Far West
+915,2012,Wisconsin,2013,272086.0,Great Lakes
+916,2012,West Virginia,2013,69711.0,Southeast
+917,2012,Wyoming,2013,41839.0,Rocky Mountain
+918,2013,Alaska,2014,57276.0,Far West
+919,2013,Alabama,2014,194671.0,Southeast
+920,2013,Arkansas,2014,118553.0,Southeast
+921,2013,Arizona,2014,274734.0,Southwest
+922,2013,California,2014,2212991.0,Far West
+923,2013,Colorado,2014,288338.0,Rocky Mountain
+924,2013,Connecticut,2014,246897.0,New England
+925,2013,District of Columbia,2014,111695.0,Mideast
+926,2013,Delaware,2014,60816.0,Mideast
+927,2013,Florida,2014,800697.0,Southeast
+928,2013,Georgia,2014,456483.0,Southeast
+929,2013,Hawaii,2014,75095.0,Far West
+930,2013,Iowa,2014,166787.0,Plains
+931,2013,Idaho,2014,61117.0,Rocky Mountain
+932,2013,Illinois,2014,724795.0,Great Lakes
+933,2013,Indiana,2014,311188.0,Great Lakes
+934,2013,Kansas,2014,142449.0,Plains
+935,2013,Kentucky,2014,183582.0,Southeast
+936,2013,Louisiana,2014,246660.0,Southeast
+937,2013,Massachusetts,2014,441467.0,New England
+938,2013,Maryland,2014,339409.0,Mideast
+939,2013,Maine,2014,54609.0,New England
+940,2013,Michigan,2014,434674.0,Great Lakes
+941,2013,Minnesota,2014,307270.0,Plains
+942,2013,Missouri,2014,276715.0,Plains
+943,2013,Mississippi,2014,104095.0,Southeast
+944,2013,Montana,2014,43006.0,Rocky Mountain
+945,2013,North Carolina,2014,467075.0,Southeast
+946,2013,North Dakota,2014,51048.0,Plains
+947,2013,Nebraska,2014,109364.0,Plains
+948,2013,New Hampshire,2014,68701.0,New England
+949,2013,New Jersey,2014,537396.0,Mideast
+950,2013,New Mexico,2014,90828.0,Southwest
+951,2013,Nevada,2014,127989.0,Far West
+952,2013,New York,2014,1341591.0,Mideast
+953,2013,Ohio,2014,562845.0,Great Lakes
+954,2013,Oklahoma,2014,176398.0,Southwest
+955,2013,Oregon,2014,204867.0,Far West
+956,2013,Pennsylvania,2014,640294.0,Mideast
+957,2013,Rhode Island,2014,53300.0,New England
+958,2013,South Carolina,2014,182400.0,Southeast
+959,2013,South Dakota,2014,44673.0,Plains
+960,2013,Tennessee,2014,290125.0,Southeast
+961,2013,Texas,2014,1557193.0,Southwest
+962,2013,Utah,2014,134974.0,Rocky Mountain
+963,2013,Virginia,2014,454984.0,Southeast
+964,2013,Vermont,2014,28838.0,New England
+965,2013,Washington,2014,407160.0,Far West
+966,2013,Wisconsin,2014,284728.0,Great Lakes
+967,2013,West Virginia,2014,70595.0,Southeast
+968,2013,Wyoming,2014,41782.0,Rocky Mountain
