@@ -300,5 +300,12 @@ class YearlyGDP():
 
 class QuarterlyGDP(YearlyGDP):
     
-    def __init__(self):
-        pass
+    def __init__(self, file, pageNum, yearStart, yearEnd, dollars,
+                           df = pd.DataFrame()):
+        YearlyGDP.__init__(self, file, pageNum, yearStart, yearEnd, dollars,
+                           df = pd.DataFrame())
+    
+    
+
+                
+            

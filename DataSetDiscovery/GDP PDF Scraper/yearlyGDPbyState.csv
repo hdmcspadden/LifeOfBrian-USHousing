@@ -968,3 +968,309 @@
 966,2013,Wisconsin,2014,284728.0,Great Lakes
 967,2013,West Virginia,2014,70595.0,Southeast
 968,2013,Wyoming,2014,41782.0,Rocky Mountain
+969,2014,Alaska,2014,57080.0,Far West
+970,2014,Alabama,2014,199440.0,Southeast
+971,2014,Arkansas,2014,121395.0,Southeast
+972,2014,Arizona,2014,284156.0,Southwest
+973,2014,California,2014,2311616.0,Far West
+974,2014,Colorado,2014,306663.0,Rocky Mountain
+975,2014,Connecticut,2014,253036.0,New England
+976,2014,District of Columbia,2014,115473.0,Mideast
+977,2014,Delaware,2014,62756.0,Mideast
+978,2014,Florida,2014,839944.0,Southeast
+979,2014,Georgia,2014,476483.0,Southeast
+980,2014,Hawaii,2014,77389.0,Far West
+981,2014,Iowa,2014,170613.0,Plains
+982,2014,Idaho,2014,63952.0,Rocky Mountain
+983,2014,Illinois,2014,745875.0,Great Lakes
+984,2014,Indiana,2014,317840.0,Great Lakes
+985,2014,Kansas,2014,147075.0,Plains
+986,2014,Kentucky,2014,188602.0,Southeast
+987,2014,Louisiana,2014,251397.0,Southeast
+988,2014,Massachusetts,2014,459937.0,New England
+989,2014,Maryland,2014,348631.0,Mideast
+990,2014,Maine,2014,55838.0,New England
+991,2014,Michigan,2014,451516.0,Great Lakes
+992,2014,Minnesota,2014,316204.0,Plains
+993,2014,Missouri,2014,284462.0,Plains
+994,2014,Mississippi,2014,104851.0,Southeast
+995,2014,Montana,2014,44269.0,Rocky Mountain
+996,2014,North Carolina,2014,483126.0,Southeast
+997,2014,North Dakota,2014,55136.0,Plains
+998,2014,Nebraska,2014,112159.0,Plains
+999,2014,New Hampshire,2014,71552.0,New England
+1000,2014,New Jersey,2014,549099.0,Mideast
+1001,2014,New Mexico,2014,92959.0,Southwest
+1002,2014,Nevada,2014,132064.0,Far West
+1003,2014,New York,2014,1404518.0,Mideast
+1004,2014,Ohio,2014,583261.0,Great Lakes
+1005,2014,Oklahoma,2014,183501.0,Southwest
+1006,2014,Oregon,2014,215677.0,Far West
+1007,2014,Pennsylvania,2014,662890.0,Mideast
+1008,2014,Rhode Island,2014,54960.0,New England
+1009,2014,South Carolina,2014,190304.0,Southeast
+1010,2014,South Dakota,2014,45867.0,Plains
+1011,2014,Tennessee,2014,300604.0,Southeast
+1012,2014,Texas,2014,1648036.0,Southwest
+1013,2014,Utah,2014,141410.0,Rocky Mountain
+1014,2014,Virginia,2014,463613.0,Southeast
+1015,2014,Vermont,2014,29613.0,New England
+1016,2014,Washington,2014,427052.0,Far West
+1017,2014,Wisconsin,2014,292891.0,Great Lakes
+1018,2014,West Virginia,2014,75337.0,Southeast
+1019,2014,Wyoming,2014,44190.0,Rocky Mountain
+1020,2015,Alaska,2016,53180.0,Far West
+1021,2015,Alabama,2016,201033.66666666666,Southeast
+1022,2015,Arkansas,2016,119214.66666666667,Southeast
+1023,2015,Arizona,2016,292866.6666666667,Southwest
+1024,2015,California,2016,2507470.6666666665,Far West
+1025,2015,Colorado,2016,314441.3333333333,Rocky Mountain
+1026,2015,Connecticut,2016,258198.0,New England
+1027,2015,District of Columbia,2016,121458.33333333333,Mideast
+1028,2015,Delaware,2016,69080.0,Mideast
+1029,2015,Florida,2016,889744.6666666666,Southeast
+1030,2015,Georgia,2016,504868.6666666667,Southeast
+1031,2015,Hawaii,2016,80953.0,Far West
+1032,2015,Iowa,2016,176942.33333333334,Plains
+1033,2015,Idaho,2016,65662.0,Rocky Mountain
+1034,2015,Illinois,2016,775139.0,Great Lakes
+1035,2015,Indiana,2016,335152.3333333333,Great Lakes
+1036,2015,Kansas,2016,152962.66666666666,Plains
+1037,2015,Kentucky,2016,193147.0,Southeast
+1038,2015,Louisiana,2016,237532.0,Southeast
+1039,2015,Massachusetts,2016,491360.3333333333,New England
+1040,2015,Maryland,2016,367698.6666666667,Mideast
+1041,2015,Maine,2016,57799.666666666664,New England
+1042,2015,Michigan,2016,473910.0,Great Lakes
+1043,2015,Minnesota,2016,327769.6666666667,Plains
+1044,2015,Missouri,2016,294163.0,Plains
+1045,2015,Mississippi,2016,106386.66666666667,Southeast
+1046,2015,Montana,2016,46064.666666666664,Rocky Mountain
+1047,2015,North Carolina,2016,502929.3333333333,Southeast
+1048,2015,North Dakota,2016,55435.333333333336,Plains
+1049,2015,Nebraska,2016,114140.66666666667,Plains
+1050,2015,New Hampshire,2016,74893.66666666667,New England
+1051,2015,New Jersey,2016,570053.6666666666,Mideast
+1052,2015,New Mexico,2016,93298.33333333333,Southwest
+1053,2015,Nevada,2016,142249.33333333334,Far West
+1054,2015,New York,2016,1451792.6666666667,Mideast
+1055,2015,Ohio,2016,609828.6666666666,Great Lakes
+1056,2015,Oklahoma,2016,186723.66666666666,Southwest
+1057,2015,Oregon,2016,217775.33333333334,Far West
+1058,2015,Pennsylvania,2016,711604.6666666666,Mideast
+1059,2015,Rhode Island,2016,55914.0,New England
+1060,2015,South Carolina,2016,203282.33333333334,Southeast
+1061,2015,South Dakota,2016,47471.666666666664,Plains
+1062,2015,Tennessee,2016,319142.6666666667,Southeast
+1063,2015,Texas,2016,1608061.3333333333,Southwest
+1064,2015,Utah,2016,150137.66666666666,Rocky Mountain
+1065,2015,Virginia,2016,484962.3333333333,Southeast
+1066,2015,Vermont,2016,30462.0,New England
+1067,2015,Washington,2016,449064.6666666667,Far West
+1068,2015,Wisconsin,2016,303361.0,Great Lakes
+1069,2015,West Virginia,2016,73690.33333333333,Southeast
+1070,2015,Wyoming,2016,39374.0,Rocky Mountain
+1071,2016,Alaska,2016,50713.0,Far West
+1072,2016,Alabama,2016,204861.25,Southeast
+1073,2016,Arkansas,2016,120688.75,Southeast
+1074,2016,Arizona,2016,302951.75,Southwest
+1075,2016,California,2016,2602672.0,Far West
+1076,2016,Colorado,2016,323691.75,Rocky Mountain
+1077,2016,Connecticut,2016,263378.75,New England
+1078,2016,District of Columbia,2016,126815.25,Mideast
+1079,2016,Delaware,2016,70387.0,Mideast
+1080,2016,Florida,2016,926816.75,Southeast
+1081,2016,Georgia,2016,525360.5,Southeast
+1082,2016,Hawaii,2016,83916.5,Far West
+1083,2016,Iowa,2016,178765.25,Plains
+1084,2016,Idaho,2016,67275.25,Rocky Mountain
+1085,2016,Illinois,2016,791607.25,Great Lakes
+1086,2016,Indiana,2016,341908.75,Great Lakes
+1087,2016,Kansas,2016,153257.5,Plains
+1088,2016,Kentucky,2016,197043.5,Southeast
+1089,2016,Louisiana,2016,235108.75,Southeast
+1090,2016,Massachusetts,2016,507912.5,New England
+1091,2016,Maryland,2016,378279.75,Mideast
+1092,2016,Maine,2016,59274.75,New England
+1093,2016,Michigan,2016,487239.0,Great Lakes
+1094,2016,Minnesota,2016,335147.0,Plains
+1095,2016,Missouri,2016,300891.0,Plains
+1096,2016,Mississippi,2016,107680.0,Southeast
+1097,2016,Montana,2016,45994.5,Rocky Mountain
+1098,2016,North Carolina,2016,517903.5,Southeast
+1099,2016,North Dakota,2016,52089.25,Plains
+1100,2016,Nebraska,2016,115345.25,Plains
+1101,2016,New Hampshire,2016,77855.5,New England
+1102,2016,New Jersey,2016,581122.5,Mideast
+1103,2016,New Mexico,2016,93296.25,Southwest
+1104,2016,Nevada,2016,147475.25,Far West
+1105,2016,New York,2016,1487998.0,Mideast
+1106,2016,Ohio,2016,625715.25,Great Lakes
+1107,2016,Oklahoma,2016,182937.5,Southwest
+1108,2016,Oregon,2016,226820.25,Far West
+1109,2016,Pennsylvania,2016,724935.75,Mideast
+1110,2016,Rhode Island,2016,57432.5,New England
+1111,2016,South Carolina,2016,209716.25,Southeast
+1112,2016,South Dakota,2016,48138.75,Plains
+1113,2016,Tennessee,2016,328770.0,Southeast
+1114,2016,Texas,2016,1616800.75,Southwest
+1115,2016,Utah,2016,156352.0,Rocky Mountain
+1116,2016,Virginia,2016,494349.0,Southeast
+1117,2016,Vermont,2016,31091.75,New England
+1118,2016,Washington,2016,469739.5,Far West
+1119,2016,Wisconsin,2016,309536.5,Great Lakes
+1120,2016,West Virginia,2016,73373.5,Southeast
+1121,2016,Wyoming,2016,37857.75,Rocky Mountain
+1122,2017,Alaska,2018,51686.75,Far West
+1123,2017,Alabama,2018,211665.75,Southeast
+1124,2017,Arkansas,2018,123713.75,Southeast
+1125,2017,Arizona,2018,326539.5,Southwest
+1126,2017,California,2018,2809922.5,Far West
+1127,2017,Colorado,2018,347195.75,Rocky Mountain
+1128,2017,Connecticut,2018,265535.25,New England
+1129,2017,District of Columbia,2018,134901.25,Mideast
+1130,2017,Delaware,2018,72167.25,Mideast
+1131,2017,Florida,2018,979464.5,Southeast
+1132,2017,Georgia,2018,562120.75,Southeast
+1133,2017,Hawaii,2018,89043.5,Far West
+1134,2017,Iowa,2018,182978.75,Plains
+1135,2017,Idaho,2018,72442.25,Rocky Mountain
+1136,2017,Illinois,2018,825810.5,Great Lakes
+1137,2017,Indiana,2018,351072.0,Great Lakes
+1138,2017,Kansas,2018,160083.25,Plains
+1139,2017,Kentucky,2018,200990.75,Southeast
+1140,2017,Louisiana,2018,238138.5,Southeast
+1141,2017,Massachusetts,2018,540949.0,New England
+1142,2017,Maryland,2018,398415.5,Mideast
+1143,2017,Maine,2018,61720.25,New England
+1144,2017,Michigan,2018,505844.75,Great Lakes
+1145,2017,Minnesota,2018,352267.0,Plains
+1146,2017,Missouri,2018,304050.5,Plains
+1147,2017,Mississippi,2018,109901.0,Southeast
+1148,2017,Montana,2018,47073.25,Rocky Mountain
+1149,2017,North Carolina,2018,537888.5,Southeast
+1150,2017,North Dakota,2018,51612.25,Plains
+1151,2017,Nebraska,2018,118545.75,Plains
+1152,2017,New Hampshire,2018,81179.0,New England
+1153,2017,New Jersey,2018,599314.75,Mideast
+1154,2017,New Mexico,2018,94238.25,Southwest
+1155,2017,Nevada,2018,157020.75,Far West
+1156,2017,New York,2018,1598457.0,Mideast
+1157,2017,Ohio,2018,645819.75,Great Lakes
+1158,2017,Oklahoma,2018,187347.75,Southwest
+1159,2017,Oregon,2018,226057.25,Far West
+1160,2017,Pennsylvania,2018,752340.25,Mideast
+1161,2017,Rhode Island,2018,59254.5,New England
+1162,2017,South Carolina,2018,221896.5,Southeast
+1163,2017,South Dakota,2018,49609.0,Plains
+1164,2017,Tennessee,2018,347835.25,Southeast
+1165,2017,Texas,2018,1654494.5,Southwest
+1166,2017,Utah,2018,165702.75,Rocky Mountain
+1167,2017,Virginia,2018,510424.75,Southeast
+1168,2017,Vermont,2018,32623.5,New England
+1169,2017,Washington,2018,522425.5,Far West
+1170,2017,Wisconsin,2018,321584.5,Great Lakes
+1171,2017,West Virginia,2018,73099.25,Southeast
+1172,2017,Wyoming,2018,37625.0,Rocky Mountain
+1173,2018,Alaska,2018,54011.25,Far West
+1174,2018,Alabama,2018,221126.25,Southeast
+1175,2018,Arkansas,2018,128081.75,Southeast
+1176,2018,Arizona,2018,346791.75,Southwest
+1177,2018,California,2018,2968117.5,Far West
+1178,2018,Colorado,2018,368795.25,Rocky Mountain
+1179,2018,Connecticut,2018,274179.5,New England
+1180,2018,District of Columbia,2018,140280.0,Mideast
+1181,2018,Delaware,2018,74973.25,Mideast
+1182,2018,Florida,2018,1036323.25,Southeast
+1183,2018,Georgia,2018,588171.75,Southeast
+1184,2018,Hawaii,2018,92027.0,Far West
+1185,2018,Iowa,2018,190150.25,Plains
+1186,2018,Idaho,2018,77004.0,Rocky Mountain
+1187,2018,Illinois,2018,864587.25,Great Lakes
+1188,2018,Indiana,2018,366707.0,Great Lakes
+1189,2018,Kansas,2018,167042.0,Plains
+1190,2018,Kentucky,2018,208339.75,Southeast
+1191,2018,Louisiana,2018,252117.25,Southeast
+1192,2018,Massachusetts,2018,567255.0,New England
+1193,2018,Maryland,2018,412921.25,Mideast
+1194,2018,Maine,2018,64350.5,New England
+1195,2018,Michigan,2018,528008.5,Great Lakes
+1196,2018,Minnesota,2018,368317.25,Plains
+1197,2018,Missouri,2018,317749.5,Plains
+1198,2018,Mississippi,2018,114107.0,Southeast
+1199,2018,Montana,2018,48970.25,Rocky Mountain
+1200,2018,North Carolina,2018,565800.75,Southeast
+1201,2018,North Dakota,2018,54714.25,Plains
+1202,2018,Nebraska,2018,122966.25,Plains
+1203,2018,New Hampshire,2018,84712.0,New England
+1204,2018,New Jersey,2018,624851.75,Mideast
+1205,2018,New Mexico,2018,99434.75,Southwest
+1206,2018,Nevada,2018,165803.25,Far West
+1207,2018,New York,2018,1676350.25,Mideast
+1208,2018,Ohio,2018,676192.5,Great Lakes
+1209,2018,Oklahoma,2018,199975.75,Southwest
+1210,2018,Oregon,2018,238683.75,Far West
+1211,2018,Pennsylvania,2018,788537.75,Mideast
+1212,2018,Rhode Island,2018,61020.75,New England
+1213,2018,South Carolina,2018,230354.25,Southeast
+1214,2018,South Dakota,2018,51581.25,Plains
+1215,2018,Tennessee,2018,365601.75,Southeast
+1216,2018,Texas,2018,1775796.5,Southwest
+1217,2018,Utah,2018,177336.25,Rocky Mountain
+1218,2018,Virginia,2018,534448.75,Southeast
+1219,2018,Vermont,2018,33725.25,New England
+1220,2018,Washington,2018,563150.5,Far West
+1221,2018,Wisconsin,2018,336971.5,Great Lakes
+1222,2018,West Virginia,2018,77477.0,Southeast
+1223,2018,Wyoming,2018,39371.25,Rocky Mountain
+1224,2019,Alaska,2019,55406.25,Far West
+1225,2019,Alabama,2019,230968.25,Southeast
+1226,2019,Arkansas,2019,133180.75,Southeast
+1227,2019,Arizona,2019,366190.0,Southwest
+1228,2019,California,2019,3137469.0,Far West
+1229,2019,Colorado,2019,390284.0,Rocky Mountain
+1230,2019,Connecticut,2019,285640.25,New England
+1231,2019,District of Columbia,2019,146194.5,Mideast
+1232,2019,Delaware,2019,75415.25,Mideast
+1233,2019,Florida,2019,1093350.75,Southeast
+1234,2019,Georgia,2019,616333.25,Southeast
+1235,2019,Hawaii,2019,97281.5,Far West
+1236,2019,Iowa,2019,194788.5,Plains
+1237,2019,Idaho,2019,80911.0,Rocky Mountain
+1238,2019,Illinois,2019,897123.75,Great Lakes
+1239,2019,Indiana,2019,377104.5,Great Lakes
+1240,2019,Kansas,2019,173142.25,Plains
+1241,2019,Kentucky,2019,214671.5,Southeast
+1242,2019,Louisiana,2019,263856.5,Southeast
+1243,2019,Massachusetts,2019,595558.75,New England
+1244,2019,Maryland,2019,428338.5,Mideast
+1245,2019,Maine,2019,67518.5,New England
+1246,2019,Michigan,2019,541550.75,Great Lakes
+1247,2019,Minnesota,2019,380855.0,Plains
+1248,2019,Missouri,2019,332082.0,Plains
+1249,2019,Mississippi,2019,118779.75,Southeast
+1250,2019,Montana,2019,52169.25,Rocky Mountain
+1251,2019,North Carolina,2019,587711.0,Southeast
+1252,2019,North Dakota,2019,57036.5,Plains
+1253,2019,Nebraska,2019,127036.75,Plains
+1254,2019,New Hampshire,2019,88594.75,New England
+1255,2019,New Jersey,2019,644841.5,Mideast
+1256,2019,New Mexico,2019,104001.25,Southwest
+1257,2019,Nevada,2019,177614.75,Far West
+1258,2019,New York,2019,1731910.5,Mideast
+1259,2019,Ohio,2019,698458.0,Great Lakes
+1260,2019,Oklahoma,2019,206058.0,Southwest
+1261,2019,Oregon,2019,251604.5,Far West
+1262,2019,Pennsylvania,2019,813513.5,Mideast
+1263,2019,Rhode Island,2019,63541.0,New England
+1264,2019,South Carolina,2019,246309.0,Southeast
+1265,2019,South Dakota,2019,53305.75,Plains
+1266,2019,Tennessee,2019,380137.75,Southeast
+1267,2019,Texas,2019,1886956.0,Southwest
+1268,2019,Utah,2019,188501.25,Rocky Mountain
+1269,2019,Virginia,2019,554211.25,Southeast
+1270,2019,Vermont,2019,34785.0,New England
+1271,2019,Washington,2019,599607.5,Far West
+1272,2019,Wisconsin,2019,347306.0,Great Lakes
+1273,2019,West Virginia,2019,78189.5,Southeast
+1274,2019,Wyoming,2019,39646.25,Rocky Mountain
