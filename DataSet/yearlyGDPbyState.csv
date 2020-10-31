@@ -1,39 +1,39 @@
 ,year,state,current dollars,GDP,GDP_area
-0,1995,Alaska,2001,24791.0,Far West
 1,1995,Alabama,2001,95514.0,Southeast
-2,1995,Arkansas,2001,53809.0,Southeast
+0,1995,Alaska,2001,24791.0,Far West
 3,1995,Arizona,2001,104586.0,Southwest
+2,1995,Arkansas,2001,53809.0,Southeast
 4,1995,California,2001,925931.0,Far West
 5,1995,Colorado,2001,109021.0,Rocky Mountain
 6,1995,Connecticut,2001,118645.0,New England
-7,1995,District of Columbia,2001,48408.0,Mideast
 8,1995,Delaware,2001,27575.0,Mideast
+7,1995,District of Columbia,2001,48408.0,Mideast
 9,1995,Florida,2001,344771.0,Southeast
 10,1995,Georgia,2001,203505.0,Southeast
 11,1995,Hawaii,2001,37243.0,Far West
-12,1995,Iowa,2001,71687.0,Plains
 13,1995,Idaho,2001,27155.0,Rocky Mountain
 14,1995,Illinois,2001,359451.0,Great Lakes
 15,1995,Indiana,2001,148447.0,Great Lakes
+12,1995,Iowa,2001,71687.0,Plains
 16,1995,Kansas,2001,64069.0,Plains
 17,1995,Kentucky,2001,91472.0,Southeast
 18,1995,Louisiana,2001,112157.0,Southeast
-19,1995,Massachusetts,2001,197469.0,New England
-20,1995,Maryland,2001,139495.0,Mideast
 21,1995,Maine,2001,27987.0,New England
+20,1995,Maryland,2001,139495.0,Mideast
+19,1995,Massachusetts,2001,197469.0,New England
 22,1995,Michigan,2001,254179.0,Great Lakes
 23,1995,Minnesota,2001,131841.0,Plains
-24,1995,Missouri,2001,139547.0,Plains
 25,1995,Mississippi,2001,54562.0,Southeast
+24,1995,Missouri,2001,139547.0,Plains
 26,1995,Montana,2001,17537.0,Rocky Mountain
-27,1995,North Carolina,2001,194634.0,Southeast
-28,1995,North Dakota,2001,14529.0,Plains
 29,1995,Nebraska,2001,44084.0,Plains
+33,1995,Nevada,2001,49377.0,Far West
 30,1995,New Hampshire,2001,32388.0,New England
 31,1995,New Jersey,2001,271435.0,Mideast
 32,1995,New Mexico,2001,42170.0,Southwest
-33,1995,Nevada,2001,49377.0,Far West
 34,1995,New York,2001,597593.0,Mideast
+27,1995,North Carolina,2001,194634.0,Southeast
+28,1995,North Dakota,2001,14529.0,Plains
 35,1995,Ohio,2001,295668.0,Great Lakes
 36,1995,Oklahoma,2001,69960.0,Southwest
 37,1995,Oregon,2001,81092.0,Far West
@@ -44,47 +44,47 @@
 42,1995,Tennessee,2001,136821.0,Southeast
 43,1995,Texas,2001,513882.0,Southwest
 44,1995,Utah,2001,46290.0,Rocky Mountain
-45,1995,Virginia,2001,188963.0,Southeast
 46,1995,Vermont,2001,13974.0,New England
+45,1995,Virginia,2001,188963.0,Southeast
 47,1995,Washington,2001,151265.0,Far West
-48,1995,Wisconsin,2001,133694.0,Great Lakes
 49,1995,West Virginia,2001,36315.0,Southeast
+48,1995,Wisconsin,2001,133694.0,Great Lakes
 50,1995,Wyoming,2001,14920.0,Rocky Mountain
-51,1996,Alaska,2001,25774.0,Far West
 52,1996,Alabama,2001,99286.0,Southeast
-53,1996,Arkansas,2001,56796.0,Southeast
+51,1996,Alaska,2001,25774.0,Far West
 54,1996,Arizona,2001,112882.0,Southwest
+53,1996,Arkansas,2001,56796.0,Southeast
 55,1996,California,2001,973395.0,Far West
 56,1996,Colorado,2001,117118.0,Rocky Mountain
 57,1996,Connecticut,2001,124157.0,New England
-58,1996,District of Columbia,2001,48505.0,Mideast
 59,1996,Delaware,2001,29001.0,Mideast
+58,1996,District of Columbia,2001,48505.0,Mideast
 60,1996,Florida,2001,366318.0,Southeast
 61,1996,Georgia,2001,219520.0,Southeast
 62,1996,Hawaii,2001,37490.0,Far West
-63,1996,Iowa,2001,76976.0,Plains
 64,1996,Idaho,2001,28101.0,Rocky Mountain
 65,1996,Illinois,2001,375949.0,Great Lakes
 66,1996,Indiana,2001,155096.0,Great Lakes
+63,1996,Iowa,2001,76976.0,Plains
 67,1996,Kansas,2001,68160.0,Plains
 68,1996,Kentucky,2001,95536.0,Southeast
 69,1996,Louisiana,2001,116867.0,Southeast
-70,1996,Massachusetts,2001,210127.0,New England
-71,1996,Maryland,2001,145061.0,Mideast
 72,1996,Maine,2001,28925.0,New England
+71,1996,Maryland,2001,145061.0,Mideast
+70,1996,Massachusetts,2001,210127.0,New England
 73,1996,Michigan,2001,265130.0,Great Lakes
 74,1996,Minnesota,2001,141540.0,Plains
-75,1996,Missouri,2001,146537.0,Plains
 76,1996,Mississippi,2001,56575.0,Southeast
+75,1996,Missouri,2001,146537.0,Plains
 77,1996,Montana,2001,18074.0,Rocky Mountain
-78,1996,North Carolina,2001,204329.0,Southeast
-79,1996,North Dakota,2001,15855.0,Plains
 80,1996,Nebraska,2001,47772.0,Plains
+84,1996,Nevada,2001,54564.0,Far West
 81,1996,New Hampshire,2001,35068.0,New England
 82,1996,New Jersey,2001,285738.0,Mideast
 83,1996,New Mexico,2001,44114.0,Southwest
-84,1996,Nevada,2001,54564.0,Far West
 85,1996,New York,2001,633830.0,Mideast
+78,1996,North Carolina,2001,204329.0,Southeast
+79,1996,North Dakota,2001,15855.0,Plains
 86,1996,Ohio,2001,306333.0,Great Lakes
 87,1996,Oklahoma,2001,74855.0,Southwest
 88,1996,Oregon,2001,91709.0,Far West
@@ -95,47 +95,47 @@
 93,1996,Tennessee,2001,142051.0,Southeast
 94,1996,Texas,2001,553180.0,Southwest
 95,1996,Utah,2001,51523.0,Rocky Mountain
-96,1996,Virginia,2001,199953.0,Southeast
 97,1996,Vermont,2001,14662.0,New England
+96,1996,Virginia,2001,199953.0,Southeast
 98,1996,Washington,2001,161779.0,Far West
-99,1996,Wisconsin,2001,141046.0,Great Lakes
 100,1996,West Virginia,2001,37220.0,Southeast
+99,1996,Wisconsin,2001,141046.0,Great Lakes
 101,1996,Wyoming,2001,15879.0,Rocky Mountain
-102,1997,Alaska,2001,26575.0,Far West
 103,1997,Alabama,2001,104213.0,Southeast
-104,1997,Arkansas,2001,59141.0,Southeast
+102,1997,Alaska,2001,26575.0,Far West
 105,1997,Arizona,2001,122273.0,Southwest
+104,1997,Arkansas,2001,59141.0,Southeast
 106,1997,California,2001,1045254.0,Far West
 107,1997,Colorado,2001,129575.0,Rocky Mountain
 108,1997,Connecticut,2001,134968.0,New England
-109,1997,District of Columbia,2001,50546.0,Mideast
 110,1997,Delaware,2001,31263.0,Mideast
+109,1997,District of Columbia,2001,50546.0,Mideast
 111,1997,Florida,2001,389473.0,Southeast
 112,1997,Georgia,2001,235733.0,Southeast
 113,1997,Hawaii,2001,38537.0,Far West
-114,1997,Iowa,2001,81695.0,Plains
 115,1997,Idaho,2001,29388.0,Rocky Mountain
 116,1997,Illinois,2001,400327.0,Great Lakes
 117,1997,Indiana,2001,162953.0,Great Lakes
+114,1997,Iowa,2001,81695.0,Plains
 118,1997,Kansas,2001,72998.0,Plains
 119,1997,Kentucky,2001,101535.0,Southeast
 120,1997,Louisiana,2001,123549.0,Southeast
-121,1997,Massachusetts,2001,223571.0,New England
-122,1997,Maryland,2001,154646.0,Mideast
 123,1997,Maine,2001,30409.0,New England
+122,1997,Maryland,2001,154646.0,Mideast
+121,1997,Massachusetts,2001,223571.0,New England
 124,1997,Michigan,2001,279503.0,Great Lakes
 125,1997,Minnesota,2001,152334.0,Plains
-126,1997,Missouri,2001,155811.0,Plains
 127,1997,Mississippi,2001,58743.0,Southeast
+126,1997,Missouri,2001,155811.0,Plains
 128,1997,Montana,2001,18907.0,Rocky Mountain
-129,1997,North Carolina,2001,221629.0,Southeast
-130,1997,North Dakota,2001,15910.0,Plains
 131,1997,Nebraska,2001,49275.0,Plains
+135,1997,Nevada,2001,59248.0,Far West
 132,1997,New Hampshire,2001,37470.0,New England
 133,1997,New Jersey,2001,299986.0,Mideast
 134,1997,New Mexico,2001,47829.0,Southwest
-135,1997,Nevada,2001,59248.0,Far West
 136,1997,New York,2001,663377.0,Mideast
+129,1997,North Carolina,2001,221629.0,Southeast
+130,1997,North Dakota,2001,15910.0,Plains
 137,1997,Ohio,2001,326451.0,Great Lakes
 138,1997,Oklahoma,2001,79423.0,Southwest
 139,1997,Oregon,2001,97510.0,Far West
@@ -146,47 +146,47 @@
 144,1997,Tennessee,2001,151738.0,Southeast
 145,1997,Texas,2001,608622.0,Southwest
 146,1997,Utah,2001,55070.0,Rocky Mountain
-147,1997,Virginia,2001,212105.0,Southeast
 148,1997,Vermont,2001,15510.0,New England
+147,1997,Virginia,2001,212105.0,Southeast
 149,1997,Washington,2001,175242.0,Far West
-150,1997,Wisconsin,2001,148194.0,Great Lakes
 151,1997,West Virginia,2001,38281.0,Southeast
+150,1997,Wisconsin,2001,148194.0,Great Lakes
 152,1997,Wyoming,2001,16244.0,Rocky Mountain
-153,1998,Alaska,2001,24651.0,Far West
 154,1998,Alabama,2001,109672.0,Southeast
-155,1998,Arkansas,2001,61298.0,Southeast
+153,1998,Alaska,2001,24651.0,Far West
 156,1998,Arizona,2001,132897.0,Southwest
+155,1998,Arkansas,2001,61298.0,Southeast
 157,1998,California,2001,1125331.0,Far West
 158,1998,Colorado,2001,139860.0,Rocky Mountain
 159,1998,Connecticut,2001,142701.0,New England
-160,1998,District of Columbia,2001,52145.0,Mideast
 161,1998,Delaware,2001,32693.0,Mideast
+160,1998,District of Columbia,2001,52145.0,Mideast
 162,1998,Florida,2001,415564.0,Southeast
 163,1998,Georgia,2001,254891.0,Southeast
 164,1998,Hawaii,2001,39371.0,Far West
-165,1998,Iowa,2001,83069.0,Plains
 166,1998,Idaho,2001,31041.0,Rocky Mountain
 167,1998,Illinois,2001,423175.0,Great Lakes
 168,1998,Indiana,2001,176110.0,Great Lakes
+165,1998,Iowa,2001,83069.0,Plains
 169,1998,Kansas,2001,76648.0,Plains
 170,1998,Kentucky,2001,107648.0,Southeast
 171,1998,Louisiana,2001,122580.0,Southeast
-172,1998,Massachusetts,2001,241369.0,New England
-173,1998,Maryland,2001,164100.0,Mideast
 174,1998,Maine,2001,32208.0,New England
+173,1998,Maryland,2001,164100.0,Mideast
+172,1998,Massachusetts,2001,241369.0,New England
 175,1998,Michigan,2001,293173.0,Great Lakes
 176,1998,Minnesota,2001,163009.0,Plains
-177,1998,Missouri,2001,163425.0,Plains
 178,1998,Mississippi,2001,61709.0,Southeast
+177,1998,Missouri,2001,163425.0,Plains
 179,1998,Montana,2001,19971.0,Rocky Mountain
-180,1998,North Carolina,2001,241220.0,Southeast
-181,1998,North Dakota,2001,17053.0,Plains
 182,1998,Nebraska,2001,51349.0,Plains
+186,1998,Nevada,2001,63786.0,Far West
 183,1998,New Hampshire,2001,40529.0,New England
 184,1998,New Jersey,2001,316875.0,Mideast
 185,1998,New Mexico,2001,48488.0,Southwest
-186,1998,Nevada,2001,63786.0,Far West
 187,1998,New York,2001,718686.0,Mideast
+180,1998,North Carolina,2001,241220.0,Southeast
+181,1998,North Dakota,2001,17053.0,Plains
 188,1998,Ohio,2001,346648.0,Great Lakes
 189,1998,Oklahoma,2001,82189.0,Southwest
 190,1998,Oregon,2001,102943.0,Far West
@@ -197,47 +197,47 @@
 195,1998,Tennessee,2001,162228.0,Southeast
 196,1998,Texas,2001,641405.0,Southwest
 197,1998,Utah,2001,59084.0,Rocky Mountain
-198,1998,Virginia,2001,228049.0,Southeast
 199,1998,Vermont,2001,16294.0,New England
+198,1998,Virginia,2001,228049.0,Southeast
 200,1998,Washington,2001,192031.0,Far West
-201,1998,Wisconsin,2001,157735.0,Great Lakes
 202,1998,West Virginia,2001,39024.0,Southeast
+201,1998,Wisconsin,2001,157735.0,Great Lakes
 203,1998,Wyoming,2001,16420.0,Rocky Mountain
-204,1999,Alaska,2001,25550.0,Far West
 205,1999,Alabama,2001,115095.0,Southeast
-206,1999,Arkansas,2001,64993.0,Southeast
+204,1999,Alaska,2001,25550.0,Far West
 207,1999,Arizona,2001,144596.0,Southwest
+206,1999,Arkansas,2001,64993.0,Southeast
 208,1999,California,2001,1213355.0,Far West
 209,1999,Colorado,2001,152331.0,Rocky Mountain
 210,1999,Connecticut,2001,149010.0,New England
-211,1999,District of Columbia,2001,55382.0,Mideast
 212,1999,Delaware,2001,34696.0,Mideast
+211,1999,District of Columbia,2001,55382.0,Mideast
 213,1999,Florida,2001,442613.0,Southeast
 214,1999,Georgia,2001,276510.0,Southeast
 215,1999,Hawaii,2001,40662.0,Far West
-216,1999,Iowa,2001,85540.0,Plains
 217,1999,Idaho,2001,34584.0,Rocky Mountain
 218,1999,Illinois,2001,440899.0,Great Lakes
 219,1999,Indiana,2001,181287.0,Great Lakes
+216,1999,Iowa,2001,85540.0,Plains
 220,1999,Kansas,2001,80208.0,Plains
 221,1999,Kentucky,2001,112396.0,Southeast
 222,1999,Louisiana,2001,133940.0,Southeast
-223,1999,Massachusetts,2001,257802.0,New England
-224,1999,Maryland,2001,173836.0,Mideast
 225,1999,Maine,2001,34102.0,New England
+224,1999,Maryland,2001,173836.0,Mideast
+223,1999,Massachusetts,2001,257802.0,New England
 226,1999,Michigan,2001,312054.0,Great Lakes
 227,1999,Minnesota,2001,171490.0,Plains
-228,1999,Missouri,2001,168877.0,Plains
 229,1999,Mississippi,2001,64219.0,Southeast
+228,1999,Missouri,2001,168877.0,Plains
 230,1999,Montana,2001,20566.0,Rocky Mountain
-231,1999,North Carolina,2001,260628.0,Southeast
-232,1999,North Dakota,2001,17093.0,Plains
 233,1999,Nebraska,2001,53494.0,Plains
+237,1999,Nevada,2001,69534.0,Far West
 234,1999,New Hampshire,2001,43360.0,New England
 235,1999,New Jersey,2001,332155.0,Mideast
 236,1999,New Mexico,2001,49221.0,Southwest
-237,1999,Nevada,2001,69534.0,Far West
 238,1999,New York,2001,743873.0,Mideast
+231,1999,North Carolina,2001,260628.0,Southeast
+232,1999,North Dakota,2001,17093.0,Plains
 239,1999,Ohio,2001,357378.0,Great Lakes
 240,1999,Oklahoma,2001,85389.0,Southwest
 241,1999,Oregon,2001,110374.0,Far West
@@ -248,47 +248,47 @@
 246,1999,Tennessee,2001,170771.0,Southeast
 247,1999,Texas,2001,678808.0,Southwest
 248,1999,Utah,2001,62635.0,Rocky Mountain
-249,1999,Virginia,2001,241503.0,Southeast
 250,1999,Vermont,2001,17155.0,New England
+249,1999,Virginia,2001,241503.0,Southeast
 251,1999,Washington,2001,208470.0,Far West
-252,1999,Wisconsin,2001,164935.0,Great Lakes
 253,1999,West Virginia,2001,40525.0,Southeast
+252,1999,Wisconsin,2001,164935.0,Great Lakes
 254,1999,Wyoming,2001,17015.0,Rocky Mountain
-255,2000,Alaska,2001,28129.0,Far West
 256,2000,Alabama,2001,119319.0,Southeast
-257,2000,Arkansas,2001,66793.0,Southeast
+255,2000,Alaska,2001,28129.0,Far West
 258,2000,Arizona,2001,153469.0,Southwest
+257,2000,Arkansas,2001,66793.0,Southeast
 259,2000,California,2001,1330025.0,Far West
 260,2000,Colorado,2001,169341.0,Rocky Mountain
 261,2000,Connecticut,2001,161929.0,New England
-262,2000,District of Columbia,2001,59963.0,Mideast
 263,2000,Delaware,2001,37247.0,Mideast
+262,2000,District of Columbia,2001,59963.0,Mideast
 264,2000,Florida,2001,471623.0,Southeast
 265,2000,Georgia,2001,295539.0,Southeast
 266,2000,Hawaii,2001,42524.0,Far West
-267,2000,Iowa,2001,89654.0,Plains
 268,2000,Idaho,2001,36755.0,Rocky Mountain
 269,2000,Illinois,2001,466312.0,Great Lakes
 270,2000,Indiana,2001,189778.0,Great Lakes
+267,2000,Iowa,2001,89654.0,Plains
 271,2000,Kansas,2001,84526.0,Plains
 272,2000,Kentucky,2001,117233.0,Southeast
 273,2000,Louisiana,2001,144984.0,Southeast
-274,2000,Massachusetts,2001,283072.0,New England
-275,2000,Maryland,2001,185049.0,Mideast
 276,2000,Maine,2001,36276.0,New England
+275,2000,Maryland,2001,185049.0,Mideast
+274,2000,Massachusetts,2001,283072.0,New England
 277,2000,Michigan,2001,323717.0,Great Lakes
 278,2000,Minnesota,2001,186097.0,Plains
-279,2000,Missouri,2001,177104.0,Plains
 280,2000,Mississippi,2001,66162.0,Southeast
+279,2000,Missouri,2001,177104.0,Plains
 281,2000,Montana,2001,21702.0,Rocky Mountain
-282,2000,North Carolina,2001,272934.0,Southeast
-283,2000,North Dakota,2001,18556.0,Plains
 284,2000,Nebraska,2001,55649.0,Plains
+288,2000,Nevada,2001,75533.0,Far West
 285,2000,New Hampshire,2001,47385.0,New England
 286,2000,New Jersey,2001,357453.0,Mideast
 287,2000,New Mexico,2001,52592.0,Southwest
-288,2000,Nevada,2001,75533.0,Far West
 289,2000,New York,2001,798382.0,Mideast
+282,2000,North Carolina,2001,272934.0,Southeast
+283,2000,North Dakota,2001,18556.0,Plains
 290,2000,Ohio,2001,370617.0,Great Lakes
 291,2000,Oklahoma,2001,90942.0,Southwest
 292,2000,Oregon,2001,121383.0,Far West
@@ -299,47 +299,47 @@
 297,2000,Tennessee,2001,177401.0,Southeast
 298,2000,Texas,2001,738270.0,Southwest
 299,2000,Utah,2001,68430.0,Rocky Mountain
-300,2000,Virginia,2001,260837.0,Southeast
 301,2000,Vermont,2001,18124.0,New England
+300,2000,Virginia,2001,260837.0,Southeast
 302,2000,Washington,2001,218095.0,Far West
-303,2000,Wisconsin,2001,173016.0,Great Lakes
 304,2000,West Virginia,2001,40926.0,Southeast
+303,2000,Wisconsin,2001,173016.0,Great Lakes
 305,2000,Wyoming,2001,19113.0,Rocky Mountain
-306,2001,Alaska,2004,27358.0,Far West
 307,2001,Alabama,2004,118263.0,Southeast
-308,2001,Arkansas,2004,68574.0,Southeast
+306,2001,Alaska,2004,27358.0,Far West
 309,2001,Arizona,2004,164263.0,Southwest
+308,2001,Arkansas,2004,68574.0,Southeast
 310,2001,California,2004,1307880.0,Far West
 311,2001,Colorado,2004,177526.0,Rocky Mountain
 312,2001,Connecticut,2004,165434.0,New England
-313,2001,District of Columbia,2004,63223.0,Mideast
 314,2001,Delaware,2004,45049.0,Mideast
+313,2001,District of Columbia,2004,63223.0,Mideast
 315,2001,Florida,2004,496861.0,Southeast
 316,2001,Georgia,2004,299507.0,Southeast
 317,2001,Hawaii,2004,41720.0,Far West
-318,2001,Iowa,2004,92891.0,Plains
 319,2001,Idaho,2004,36571.0,Rocky Mountain
 320,2001,Illinois,2004,476851.0,Great Lakes
 321,2001,Indiana,2004,195769.0,Great Lakes
+318,2001,Iowa,2004,92891.0,Plains
 322,2001,Kansas,2004,87206.0,Plains
 323,2001,Kentucky,2004,116545.0,Southeast
 324,2001,Louisiana,2004,137567.0,Southeast
-325,2001,Massachusetts,2004,283422.0,New England
-326,2001,Maryland,2004,192425.0,Mideast
 327,2001,Maine,2004,37094.0,New England
+326,2001,Maryland,2004,192425.0,Mideast
+325,2001,Massachusetts,2004,283422.0,New England
 328,2001,Michigan,2004,335793.0,Great Lakes
 329,2001,Minnesota,2004,190567.0,Plains
-330,2001,Missouri,2004,182048.0,Plains
 331,2001,Mississippi,2004,65725.0,Southeast
+330,2001,Missouri,2004,182048.0,Plains
 332,2001,Montana,2004,22636.0,Rocky Mountain
-333,2001,North Carolina,2004,287281.0,Southeast
-334,2001,North Dakota,2004,18800.0,Plains
 335,2001,Nebraska,2004,57771.0,Plains
+339,2001,Nevada,2004,78092.0,Far West
 336,2001,New Hampshire,2004,44394.0,New England
 337,2001,New Jersey,2004,362336.0,Mideast
 338,2001,New Mexico,2004,50908.0,Southwest
-339,2001,Nevada,2004,78092.0,Far West
 340,2001,New York,2004,797145.0,Mideast
+333,2001,North Carolina,2004,287281.0,Southeast
+334,2001,North Dakota,2004,18800.0,Plains
 341,2001,Ohio,2004,374771.0,Great Lakes
 342,2001,Oklahoma,2004,92609.0,Southwest
 343,2001,Oregon,2004,111352.0,Far West
@@ -350,47 +350,47 @@
 348,2001,Tennessee,2004,180232.0,Southeast
 349,2001,Texas,2004,751405.0,Southwest
 350,2001,Utah,2004,70490.0,Rocky Mountain
-351,2001,Virginia,2004,277214.0,Southeast
 352,2001,Vermont,2004,18656.0,New England
+351,2001,Virginia,2004,277214.0,Southeast
 353,2001,Washington,2004,225656.0,Far West
-354,2001,Wisconsin,2004,182373.0,Great Lakes
 355,2001,West Virginia,2004,43512.0,Southeast
+354,2001,Wisconsin,2004,182373.0,Great Lakes
 356,2001,Wyoming,2004,19138.0,Rocky Mountain
-357,2002,Alaska,2004,29741.0,Far West
 358,2002,Alabama,2004,123763.0,Southeast
-359,2002,Arkansas,2004,71221.0,Southeast
+357,2002,Alaska,2004,29741.0,Far West
 360,2002,Arizona,2004,173052.0,Southwest
+359,2002,Arkansas,2004,71221.0,Southeast
 361,2002,California,2004,1363577.0,Far West
 362,2002,Colorado,2004,181246.0,Rocky Mountain
 363,2002,Connecticut,2004,167235.0,New England
-364,2002,District of Columbia,2004,67176.0,Mideast
 365,2002,Delaware,2004,46991.0,Mideast
+364,2002,District of Columbia,2004,67176.0,Mideast
 366,2002,Florida,2004,522340.0,Southeast
 367,2002,Georgia,2004,307443.0,Southeast
 368,2002,Hawaii,2004,43806.0,Far West
-369,2002,Iowa,2004,97810.0,Plains
 370,2002,Idaho,2004,38276.0,Rocky Mountain
 371,2002,Illinois,2004,486182.0,Great Lakes
 372,2002,Indiana,2004,203296.0,Great Lakes
+369,2002,Iowa,2004,97810.0,Plains
 373,2002,Kansas,2004,89875.0,Plains
 374,2002,Kentucky,2004,121633.0,Southeast
 375,2002,Louisiana,2004,134360.0,Southeast
-376,2002,Massachusetts,2004,287191.0,New England
-377,2002,Maryland,2004,202840.0,Mideast
 378,2002,Maine,2004,39027.0,New England
+377,2002,Maryland,2004,202840.0,Mideast
+376,2002,Massachusetts,2004,287191.0,New England
 379,2002,Michigan,2004,347014.0,Great Lakes
 380,2002,Minnesota,2004,199271.0,Plains
-381,2002,Missouri,2004,187090.0,Plains
 382,2002,Mississippi,2004,68550.0,Southeast
+381,2002,Missouri,2004,187090.0,Plains
 383,2002,Montana,2004,23913.0,Rocky Mountain
-384,2002,North Carolina,2004,301254.0,Southeast
-385,2002,North Dakota,2004,20007.0,Plains
 386,2002,Nebraska,2004,60571.0,Plains
+390,2002,Nevada,2004,82389.0,Far West
 387,2002,New Hampshire,2004,46106.0,New England
 388,2002,New Jersey,2004,377824.0,Mideast
 389,2002,New Mexico,2004,53414.0,Southwest
-390,2002,Nevada,2004,82389.0,Far West
 391,2002,New York,2004,802866.0,Mideast
+384,2002,North Carolina,2004,301254.0,Southeast
+385,2002,North Dakota,2004,20007.0,Plains
 392,2002,Ohio,2004,385657.0,Great Lakes
 393,2002,Oklahoma,2004,95343.0,Southwest
 394,2002,Oregon,2004,115113.0,Far West
@@ -401,47 +401,47 @@
 399,2002,Tennessee,2004,191394.0,Southeast
 400,2002,Texas,2004,775459.0,Southwest
 401,2002,Utah,2004,73646.0,Rocky Mountain
-402,2002,Virginia,2004,288840.0,Southeast
 403,2002,Vermont,2004,19419.0,New England
+402,2002,Virginia,2004,288840.0,Southeast
 404,2002,Washington,2004,233971.0,Far West
-405,2002,Wisconsin,2004,189508.0,Great Lakes
 406,2002,West Virginia,2004,45259.0,Southeast
+405,2002,Wisconsin,2004,189508.0,Great Lakes
 407,2002,Wyoming,2004,20326.0,Rocky Mountain
-408,2003,Alaska,2004,31704.0,Far West
 409,2003,Alabama,2004,130792.0,Southeast
-410,2003,Arkansas,2004,74540.0,Southeast
+408,2003,Alaska,2004,31704.0,Far West
 411,2003,Arizona,2004,183272.0,Southwest
+410,2003,Arkansas,2004,74540.0,Southeast
 412,2003,California,2004,1438134.0,Far West
 413,2003,Colorado,2004,188397.0,Rocky Mountain
 414,2003,Connecticut,2004,174085.0,New England
-415,2003,District of Columbia,2004,70668.0,Mideast
 416,2003,Delaware,2004,50486.0,Mideast
+415,2003,District of Columbia,2004,70668.0,Mideast
 417,2003,Florida,2004,553709.0,Southeast
 418,2003,Georgia,2004,321199.0,Southeast
 419,2003,Hawaii,2004,46671.0,Far West
-420,2003,Iowa,2004,102400.0,Plains
 421,2003,Idaho,2004,40358.0,Rocky Mountain
 422,2003,Illinois,2004,499731.0,Great Lakes
 423,2003,Indiana,2004,213342.0,Great Lakes
+420,2003,Iowa,2004,102400.0,Plains
 424,2003,Kansas,2004,93263.0,Plains
 425,2003,Kentucky,2004,128315.0,Southeast
 426,2003,Louisiana,2004,144321.0,Southeast
-427,2003,Massachusetts,2004,297113.0,New England
-428,2003,Maryland,2004,213073.0,Mideast
 429,2003,Maine,2004,40829.0,New England
+428,2003,Maryland,2004,213073.0,Mideast
+427,2003,Massachusetts,2004,297113.0,New England
 430,2003,Michigan,2004,359440.0,Great Lakes
 431,2003,Minnesota,2004,210184.0,Plains
-432,2003,Missouri,2004,193828.0,Plains
 433,2003,Mississippi,2004,71872.0,Southeast
+432,2003,Missouri,2004,193828.0,Plains
 434,2003,Montana,2004,25584.0,Rocky Mountain
-435,2003,North Carolina,2004,315456.0,Southeast
-436,2003,North Dakota,2004,21597.0,Plains
 437,2003,Nebraska,2004,65399.0,Plains
+441,2003,Nevada,2004,89711.0,Far West
 438,2003,New Hampshire,2004,48202.0,New England
 439,2003,New Jersey,2004,394040.0,Mideast
 440,2003,New Mexico,2004,57078.0,Southwest
-441,2003,Nevada,2004,89711.0,Far West
 442,2003,New York,2004,838035.0,Mideast
+435,2003,North Carolina,2004,315456.0,Southeast
+436,2003,North Dakota,2004,21597.0,Plains
 443,2003,Ohio,2004,398918.0,Great Lakes
 444,2003,Oklahoma,2004,101168.0,Southwest
 445,2003,Oregon,2004,119973.0,Far West
@@ -452,47 +452,47 @@
 450,2003,Tennessee,2004,203071.0,Southeast
 451,2003,Texas,2004,821943.0,Southwest
 452,2003,Utah,2004,76674.0,Rocky Mountain
-453,2003,Virginia,2004,304116.0,Southeast
 454,2003,Vermont,2004,20544.0,New England
+453,2003,Virginia,2004,304116.0,Southeast
 455,2003,Washington,2004,245143.0,Far West
-456,2003,Wisconsin,2004,198096.0,Great Lakes
 457,2003,West Virginia,2004,46726.0,Southeast
+456,2003,Wisconsin,2004,198096.0,Great Lakes
 458,2003,Wyoming,2004,22279.0,Rocky Mountain
-459,2004,Alaska,2007,35102.0,Far West
 460,2004,Alabama,2007,141527.0,Southeast
-461,2004,Arkansas,2007,82137.0,Southeast
+459,2004,Alaska,2007,35102.0,Far West
 462,2004,Arizona,2007,193448.0,Southwest
+461,2004,Arkansas,2007,82137.0,Southeast
 463,2004,California,2007,1519443.0,Far West
 464,2004,Colorado,2007,197329.0,Rocky Mountain
 465,2004,Connecticut,2007,182112.0,New England
-466,2004,District of Columbia,2007,77913.0,Mideast
 467,2004,Delaware,2007,52305.0,Mideast
+466,2004,District of Columbia,2007,77913.0,Mideast
 468,2004,Florida,2007,607284.0,Southeast
 469,2004,Georgia,2007,338470.0,Southeast
 470,2004,Hawaii,2007,50414.0,Far West
-471,2004,Iowa,2007,111937.0,Plains
 472,2004,Idaho,2007,42626.0,Rocky Mountain
 473,2004,Illinois,2007,534429.0,Great Lakes
 474,2004,Indiana,2007,228329.0,Great Lakes
+471,2004,Iowa,2007,111937.0,Plains
 475,2004,Kansas,2007,98426.0,Plains
 476,2004,Kentucky,2007,131741.0,Southeast
 477,2004,Louisiana,2007,163427.0,Southeast
-478,2004,Massachusetts,2007,306827.0,New England
-479,2004,Maryland,2007,228223.0,Mideast
 480,2004,Maine,2007,43191.0,New England
+479,2004,Maryland,2007,228223.0,Mideast
+478,2004,Massachusetts,2007,306827.0,New England
 481,2004,Michigan,2007,363076.0,Great Lakes
 482,2004,Minnesota,2007,223454.0,Plains
-483,2004,Missouri,2007,204916.0,Plains
 484,2004,Mississippi,2007,76499.0,Southeast
+483,2004,Missouri,2007,204916.0,Plains
 485,2004,Montana,2007,27452.0,Rocky Mountain
-486,2004,North Carolina,2007,324383.0,Southeast
-487,2004,North Dakota,2007,22739.0,Plains
 488,2004,Nebraska,2007,68404.0,Plains
+492,2004,Nevada,2007,100209.0,Far West
 489,2004,New Hampshire,2007,51432.0,New England
 490,2004,New Jersey,2007,410096.0,Mideast
 491,2004,New Mexico,2007,63452.0,Southwest
-492,2004,Nevada,2007,100209.0,Far West
 493,2004,New York,2007,896422.0,Mideast
+486,2004,North Carolina,2007,324383.0,Southeast
+487,2004,North Dakota,2007,22739.0,Plains
 494,2004,Ohio,2007,423735.0,Great Lakes
 495,2004,Oklahoma,2007,111511.0,Southwest
 496,2004,Oregon,2007,132835.0,Far West
@@ -503,47 +503,47 @@
 501,2004,Tennessee,2007,214849.0,Southeast
 502,2004,Texas,2007,901673.0,Southwest
 503,2004,Utah,2007,80889.0,Rocky Mountain
-504,2004,Virginia,2007,324870.0,Southeast
 505,2004,Vermont,2007,21839.0,New England
+504,2004,Virginia,2007,324870.0,Southeast
 506,2004,Washington,2007,253247.0,Far West
-507,2004,Wisconsin,2007,205916.0,Great Lakes
 508,2004,West Virginia,2007,49706.0,Southeast
+507,2004,Wisconsin,2007,205916.0,Great Lakes
 509,2004,Wyoming,2007,23420.0,Rocky Mountain
-510,2005,Alaska,2007,39298.0,Far West
 511,2005,Alabama,2007,150513.0,Southeast
-512,2005,Arkansas,2007,86139.0,Southeast
+510,2005,Alaska,2007,39298.0,Far West
 513,2005,Arizona,2007,215844.0,Southwest
+512,2005,Arkansas,2007,86139.0,Southeast
 514,2005,California,2007,1632822.0,Far West
 515,2005,Colorado,2007,213326.0,Rocky Mountain
 516,2005,Connecticut,2007,193281.0,New England
-517,2005,District of Columbia,2007,82978.0,Mideast
 518,2005,Delaware,2007,57334.0,Mideast
+517,2005,District of Columbia,2007,82978.0,Mideast
 519,2005,Florida,2007,670237.0,Southeast
 520,2005,Georgia,2007,359694.0,Southeast
 521,2005,Hawaii,2007,54863.0,Far West
-522,2005,Iowa,2007,115632.0,Plains
 523,2005,Idaho,2007,46369.0,Rocky Mountain
 524,2005,Illinois,2007,554099.0,Great Lakes
 525,2005,Indiana,2007,232799.0,Great Lakes
+522,2005,Iowa,2007,115632.0,Plains
 526,2005,Kansas,2007,103305.0,Plains
 527,2005,Kentucky,2007,138542.0,Southeast
 528,2005,Louisiana,2007,184042.0,Southeast
-529,2005,Massachusetts,2007,317626.0,New England
-530,2005,Maryland,2007,243855.0,Mideast
 531,2005,Maine,2007,44364.0,New England
+530,2005,Maryland,2007,243855.0,Mideast
+529,2005,Massachusetts,2007,317626.0,New England
 532,2005,Michigan,2007,372174.0,Great Lakes
 533,2005,Minnesota,2007,232001.0,Plains
-534,2005,Missouri,2007,213012.0,Plains
 535,2005,Mississippi,2007,79461.0,Southeast
+534,2005,Missouri,2007,213012.0,Plains
 536,2005,Montana,2007,29966.0,Rocky Mountain
-537,2005,North Carolina,2007,349216.0,Southeast
-538,2005,North Dakota,2007,24648.0,Plains
 539,2005,Nebraska,2007,71150.0,Plains
+543,2005,Nevada,2007,112451.0,Far West
 540,2005,New Hampshire,2007,53468.0,New England
 541,2005,New Jersey,2007,425497.0,Mideast
 542,2005,New Mexico,2007,68153.0,Southwest
-543,2005,Nevada,2007,112451.0,Far West
 544,2005,New York,2007,953641.0,Mideast
+537,2005,North Carolina,2007,349216.0,Southeast
+538,2005,North Dakota,2007,24648.0,Plains
 545,2005,Ohio,2007,439271.0,Great Lakes
 546,2005,Oklahoma,2007,120753.0,Southwest
 547,2005,Oregon,2007,138057.0,Far West
@@ -554,47 +554,47 @@
 552,2005,Tennessee,2007,224169.0,Southeast
 553,2005,Texas,2007,979311.0,Southwest
 554,2005,Utah,2007,88944.0,Rocky Mountain
-555,2005,Virginia,2007,350288.0,Southeast
 556,2005,Vermont,2007,22745.0,New England
+555,2005,Virginia,2007,350288.0,Southeast
 557,2005,Washington,2007,273257.0,Far West
-558,2005,Wisconsin,2007,214090.0,Great Lakes
 559,2005,West Virginia,2007,53013.0,Southeast
+558,2005,Wisconsin,2007,214090.0,Great Lakes
 560,2005,Wyoming,2007,26589.0,Rocky Mountain
-561,2006,Alaska,2007,43117.0,Far West
 562,2006,Alabama,2007,158566.0,Southeast
-563,2006,Arkansas,2007,90864.0,Southeast
+561,2006,Alaska,2007,43117.0,Far West
 564,2006,Arizona,2007,237397.0,Southwest
+563,2006,Arkansas,2007,90864.0,Southeast
 565,2006,California,2007,1742172.0,Far West
 566,2006,Colorado,2007,226266.0,Rocky Mountain
 567,2006,Connecticut,2007,204964.0,New England
-568,2006,District of Columbia,2007,88174.0,Mideast
 569,2006,Delaware,2007,59589.0,Mideast
+568,2006,District of Columbia,2007,88174.0,Mideast
 570,2006,Florida,2007,716505.0,Southeast
 571,2006,Georgia,2007,376410.0,Southeast
 572,2006,Hawaii,2007,58676.0,Far West
-573,2006,Iowa,2007,121945.0,Plains
 574,2006,Idaho,2007,48441.0,Rocky Mountain
 575,2006,Illinois,2007,583990.0,Great Lakes
 576,2006,Indiana,2007,238693.0,Great Lakes
+573,2006,Iowa,2007,121945.0,Plains
 577,2006,Kansas,2007,110645.0,Plains
 578,2006,Kentucky,2007,146415.0,Southeast
 579,2006,Louisiana,2007,203167.0,Southeast
-580,2006,Massachusetts,2007,335313.0,New England
-581,2006,Maryland,2007,257577.0,Mideast
 582,2006,Maine,2007,46340.0,New England
+581,2006,Maryland,2007,257577.0,Mideast
+580,2006,Massachusetts,2007,335313.0,New England
 583,2006,Michigan,2007,375759.0,Great Lakes
 584,2006,Minnesota,2007,242095.0,Plains
-585,2006,Missouri,2007,220092.0,Plains
 586,2006,Mississippi,2007,84586.0,Southeast
+585,2006,Missouri,2007,220092.0,Plains
 587,2006,Montana,2007,31994.0,Rocky Mountain
-588,2006,North Carolina,2007,380932.0,Southeast
-589,2006,North Dakota,2007,25851.0,Plains
 590,2006,Nebraska,2007,75290.0,Plains
+594,2006,Nevada,2007,123054.0,Far West
 591,2006,New Hampshire,2007,56073.0,New England
 592,2006,New Jersey,2007,448426.0,Mideast
 593,2006,New Mexico,2007,72161.0,Southwest
-594,2006,Nevada,2007,123054.0,Far West
 595,2006,New York,2007,1028320.0,Mideast
+588,2006,North Carolina,2007,380932.0,Southeast
+589,2006,North Dakota,2007,25851.0,Plains
 596,2006,Ohio,2007,451600.0,Great Lakes
 597,2006,Oklahoma,2007,130094.0,Southwest
 598,2006,Oregon,2007,150984.0,Far West
@@ -605,47 +605,47 @@
 603,2006,Tennessee,2007,235753.0,Southeast
 604,2006,Texas,2007,1068119.0,Southwest
 605,2006,Utah,2007,97963.0,Rocky Mountain
-606,2006,Virginia,2007,368604.0,Southeast
 607,2006,Vermont,2007,23628.0,New England
+606,2006,Virginia,2007,368604.0,Southeast
 608,2006,Washington,2007,291298.0,Far West
-609,2006,Wisconsin,2007,223394.0,Great Lakes
 610,2006,West Virginia,2007,56016.0,Southeast
+609,2006,Wisconsin,2007,223394.0,Great Lakes
 611,2006,Wyoming,2007,29904.0,Rocky Mountain
-612,2007,Alaska,2010,44587.0,Far West
 613,2007,Alabama,2010,165981.0,Southeast
-614,2007,Arkansas,2010,97187.0,Southeast
+612,2007,Alaska,2010,44587.0,Far West
 615,2007,Arizona,2010,260122.0,Southwest
+614,2007,Arkansas,2010,97187.0,Southeast
 616,2007,California,2010,1874783.0,Far West
 617,2007,Colorado,2010,242900.0,Rocky Mountain
 618,2007,Connecticut,2010,222498.0,New England
-619,2007,District of Columbia,2010,92342.0,Mideast
 620,2007,Delaware,2010,60108.0,Mideast
+619,2007,District of Columbia,2010,92342.0,Mideast
 621,2007,Florida,2010,759572.0,Southeast
 622,2007,Georgia,2010,400331.0,Southeast
 623,2007,Hawaii,2010,64212.0,Far West
-624,2007,Iowa,2010,134410.0,Plains
 625,2007,Idaho,2010,54344.0,Rocky Mountain
 626,2007,Illinois,2010,629379.0,Great Lakes
 627,2007,Indiana,2010,262596.0,Great Lakes
+624,2007,Iowa,2010,134410.0,Plains
 628,2007,Kansas,2010,121268.0,Plains
 629,2007,Kentucky,2010,151506.0,Southeast
 630,2007,Louisiana,2010,205758.0,Southeast
-631,2007,Massachusetts,2010,353329.0,New England
-632,2007,Maryland,2010,273693.0,Mideast
 633,2007,Maine,2010,49195.0,New England
+632,2007,Maryland,2010,273693.0,Mideast
+631,2007,Massachusetts,2010,353329.0,New England
 634,2007,Michigan,2010,387086.0,Great Lakes
 635,2007,Minnesota,2010,254567.0,Plains
-636,2007,Missouri,2010,233008.0,Plains
 637,2007,Mississippi,2010,93194.0,Southeast
+636,2007,Missouri,2010,233008.0,Plains
 638,2007,Montana,2010,35100.0,Rocky Mountain
-639,2007,North Carolina,2010,397975.0,Southeast
-640,2007,North Dakota,2010,28552.0,Plains
 641,2007,Nebraska,2010,82185.0,Plains
+645,2007,Nevada,2010,133782.0,Far West
 642,2007,New Hampshire,2010,57856.0,New England
 643,2007,New Jersey,2010,472000.0,Mideast
 644,2007,New Mexico,2010,74393.0,Southwest
-645,2007,Nevada,2010,133782.0,Far West
 646,2007,New York,2010,1085225.0,Mideast
+639,2007,North Carolina,2010,397975.0,Southeast
+640,2007,North Dakota,2010,28552.0,Plains
 647,2007,Ohio,2010,468707.0,Great Lakes
 648,2007,Oklahoma,2010,140183.0,Southwest
 649,2007,Oregon,2010,167016.0,Far West
@@ -656,47 +656,47 @@
 654,2007,Tennessee,2010,242678.0,Southeast
 655,2007,Texas,2010,1147970.0,Southwest
 656,2007,Utah,2010,108815.0,Rocky Mountain
-657,2007,Virginia,2010,389319.0,Southeast
 658,2007,Vermont,2010,24093.0,New England
+657,2007,Virginia,2010,389319.0,Southeast
 659,2007,Washington,2010,325112.0,Far West
-660,2007,Wisconsin,2010,237160.0,Great Lakes
 661,2007,West Virginia,2010,57001.0,Southeast
+660,2007,Wisconsin,2010,237160.0,Great Lakes
 662,2007,Wyoming,2010,33674.0,Rocky Mountain
-663,2008,Alaska,2010,49186.0,Far West
 664,2008,Alabama,2010,169694.0,Southeast
-665,2008,Arkansas,2010,99497.0,Southeast
+663,2008,Alaska,2010,49186.0,Far West
 666,2008,Arizona,2010,260454.0,Southwest
+665,2008,Arkansas,2010,99497.0,Southeast
 667,2008,California,2010,1911741.0,Far West
 668,2008,Colorado,2010,254218.0,Rocky Mountain
 669,2008,Connecticut,2010,225958.0,New England
-670,2008,District of Columbia,2010,97361.0,Mideast
 671,2008,Delaware,2010,58674.0,Mideast
+670,2008,District of Columbia,2010,97361.0,Mideast
 672,2008,Florida,2010,747770.0,Southeast
 673,2008,Georgia,2010,405269.0,Southeast
 674,2008,Hawaii,2010,66119.0,Far West
-675,2008,Iowa,2010,134959.0,Plains
 676,2008,Idaho,2010,55212.0,Rocky Mountain
 677,2008,Illinois,2010,637037.0,Great Lakes
 678,2008,Indiana,2010,263616.0,Great Lakes
+675,2008,Iowa,2010,134959.0,Plains
 679,2008,Kansas,2010,125333.0,Plains
 680,2008,Kentucky,2010,155592.0,Southeast
 681,2008,Louisiana,2010,213441.0,Southeast
-682,2008,Massachusetts,2010,365623.0,New England
-683,2008,Maryland,2010,281659.0,Mideast
 684,2008,Maine,2010,49972.0,New England
+683,2008,Maryland,2010,281659.0,Mideast
+682,2008,Massachusetts,2010,365623.0,New England
 685,2008,Michigan,2010,375436.0,Great Lakes
 686,2008,Minnesota,2010,262758.0,Plains
-687,2008,Missouri,2010,241344.0,Plains
 688,2008,Mississippi,2010,96713.0,Southeast
+687,2008,Missouri,2010,241344.0,Plains
 689,2008,Montana,2010,35838.0,Rocky Mountain
-690,2008,North Carolina,2010,403927.0,Southeast
-691,2008,North Dakota,2010,31677.0,Plains
 692,2008,Nebraska,2010,84884.0,Plains
+696,2008,Nevada,2010,132270.0,Far West
 693,2008,New Hampshire,2010,58780.0,New England
 694,2008,New Jersey,2010,483560.0,Mideast
 695,2008,New Mexico,2010,77168.0,Southwest
-696,2008,Nevada,2010,132270.0,Far West
 697,2008,New York,2010,1109080.0,Mideast
+690,2008,North Carolina,2010,403927.0,Southeast
+691,2008,North Dakota,2010,31677.0,Plains
 698,2008,Ohio,2010,470640.0,Great Lakes
 699,2008,Oklahoma,2010,151850.0,Southwest
 700,2008,Oregon,2010,174454.0,Far West
@@ -707,47 +707,47 @@
 705,2008,Tennessee,2010,247796.0,Southeast
 706,2008,Texas,2010,1202104.0,Southwest
 707,2008,Utah,2010,112353.0,Rocky Mountain
-708,2008,Virginia,2010,402853.0,Southeast
 709,2008,Vermont,2010,24636.0,New England
+708,2008,Virginia,2010,402853.0,Southeast
 710,2008,Washington,2010,334477.0,Far West
-711,2008,Wisconsin,2010,239150.0,Great Lakes
 712,2008,West Virginia,2010,59039.0,Southeast
+711,2008,Wisconsin,2010,239150.0,Great Lakes
 713,2008,Wyoming,2010,38917.0,Rocky Mountain
-714,2009,Alaska,2010,45861.0,Far West
 715,2009,Alabama,2010,166819.0,Southeast
-716,2009,Arkansas,2010,98795.0,Southeast
+714,2009,Alaska,2010,45861.0,Far West
 717,2009,Arizona,2010,249711.0,Southwest
+716,2009,Arkansas,2010,98795.0,Southeast
 718,2009,California,2010,1847048.0,Far West
 719,2009,Colorado,2010,250664.0,Rocky Mountain
 720,2009,Connecticut,2010,227550.0,New England
-721,2009,District of Columbia,2010,98892.0,Mideast
 722,2009,Delaware,2010,60660.0,Mideast
+721,2009,District of Columbia,2010,98892.0,Mideast
 723,2009,Florida,2010,732782.0,Southeast
 724,2009,Georgia,2010,394117.0,Southeast
 725,2009,Hawaii,2010,65428.0,Far West
-726,2009,Iowa,2010,136062.0,Plains
 727,2009,Idaho,2010,53661.0,Rocky Mountain
 728,2009,Illinois,2010,631970.0,Great Lakes
 729,2009,Indiana,2010,259894.0,Great Lakes
+726,2009,Iowa,2010,136062.0,Plains
 730,2009,Kansas,2010,122544.0,Plains
 731,2009,Kentucky,2010,155789.0,Southeast
 732,2009,Louisiana,2010,205117.0,Southeast
-733,2009,Massachusetts,2010,360538.0,New England
-734,2009,Maryland,2010,285116.0,Mideast
 735,2009,Maine,2010,50039.0,New England
+734,2009,Maryland,2010,285116.0,Mideast
+733,2009,Massachusetts,2010,360538.0,New England
 736,2009,Michigan,2010,369671.0,Great Lakes
 737,2009,Minnesota,2010,258499.0,Plains
-738,2009,Missouri,2010,237955.0,Plains
 739,2009,Mississippi,2010,94406.0,Southeast
+738,2009,Missouri,2010,237955.0,Plains
 740,2009,Montana,2010,34999.0,Rocky Mountain
-741,2009,North Carolina,2010,407032.0,Southeast
-742,2009,North Dakota,2010,31626.0,Plains
 743,2009,Nebraska,2010,86411.0,Plains
+747,2009,Nevada,2010,125037.0,Far West
 744,2009,New Hampshire,2010,59086.0,New England
 745,2009,New Jersey,2010,471946.0,Mideast
 746,2009,New Mexico,2010,76871.0,Southwest
-747,2009,Nevada,2010,125037.0,Far West
 748,2009,New York,2010,1094104.0,Mideast
+741,2009,North Carolina,2010,407032.0,Southeast
+742,2009,North Dakota,2010,31626.0,Plains
 749,2009,Ohio,2010,462015.0,Great Lakes
 750,2009,Oklahoma,2010,142388.0,Southwest
 751,2009,Oregon,2010,167481.0,Far West
@@ -758,47 +758,47 @@
 756,2009,Tennessee,2010,243849.0,Southeast
 757,2009,Texas,2010,1146647.0,Southwest
 758,2009,Utah,2010,111301.0,Rocky Mountain
-759,2009,Virginia,2010,409732.0,Southeast
 760,2009,Vermont,2010,24625.0,New England
+759,2009,Virginia,2010,409732.0,Southeast
 761,2009,Washington,2010,331639.0,Far West
-762,2009,Wisconsin,2010,239613.0,Great Lakes
 763,2009,West Virginia,2010,61043.0,Southeast
+762,2009,Wisconsin,2010,239613.0,Great Lakes
 764,2009,Wyoming,2010,36760.0,Rocky Mountain
-765,2010,Alaska,2013,53251.0,Far West
 766,2010,Alabama,2013,175734.0,Southeast
-767,2010,Arkansas,2013,111355.0,Southeast
+765,2010,Alaska,2013,53251.0,Far West
 768,2010,Arizona,2013,247752.0,Southwest
+767,2010,Arkansas,2013,111355.0,Southeast
 769,2010,California,2013,1953411.0,Far West
 770,2010,Colorado,2013,256628.0,Rocky Mountain
 771,2010,Connecticut,2013,233781.0,New England
-772,2010,District of Columbia,2013,106615.0,Mideast
 773,2010,Delaware,2013,57628.0,Mideast
+772,2010,District of Columbia,2013,106615.0,Mideast
 774,2010,Florida,2013,728604.0,Southeast
 775,2010,Georgia,2013,410902.0,Southeast
 776,2010,Hawaii,2013,67285.0,Far West
-777,2010,Iowa,2013,141814.0,Plains
 778,2010,Idaho,2013,55427.0,Rocky Mountain
 779,2010,Illinois,2013,652681.0,Great Lakes
 780,2010,Indiana,2013,283289.0,Great Lakes
+777,2010,Iowa,2013,141814.0,Plains
 781,2010,Kansas,2013,126347.0,Plains
 782,2010,Kentucky,2013,166344.0,Southeast
 783,2010,Louisiana,2013,232879.0,Southeast
-784,2010,Massachusetts,2013,399603.0,New England
-785,2010,Maryland,2013,316164.0,Mideast
 786,2010,Maine,2013,51470.0,New England
+785,2010,Maryland,2013,316164.0,Mideast
+784,2010,Massachusetts,2013,399603.0,New England
 787,2010,Michigan,2013,387730.0,Great Lakes
 788,2010,Minnesota,2013,272244.0,Plains
-789,2010,Missouri,2013,257924.0,Plains
 790,2010,Mississippi,2013,94649.0,Southeast
+789,2010,Missouri,2013,257924.0,Plains
 791,2010,Montana,2013,37520.0,Rocky Mountain
-792,2010,North Carolina,2013,420876.0,Southeast
-793,2010,North Dakota,2013,35482.0,Plains
 794,2010,Nebraska,2013,91131.0,Plains
+798,2010,Nevada,2013,120579.0,Far West
 795,2010,New Hampshire,2013,62622.0,New England
 796,2010,New Jersey,2013,497733.0,Mideast
 797,2010,New Mexico,2013,83798.0,Southwest
-798,2010,Nevada,2013,120579.0,Far West
 799,2010,New York,2013,1198004.0,Mideast
+792,2010,North Carolina,2013,420876.0,Southeast
+793,2010,North Dakota,2013,35482.0,Plains
 800,2010,Ohio,2013,494695.0,Great Lakes
 801,2010,Oklahoma,2013,154062.0,Southwest
 802,2010,Oregon,2013,190800.0,Far West
@@ -809,47 +809,47 @@
 807,2010,Tennessee,2013,253987.0,Southeast
 808,2010,Texas,2013,1248511.0,Southwest
 809,2010,Utah,2013,119249.0,Rocky Mountain
-810,2010,Virginia,2013,421325.0,Southeast
 811,2010,Vermont,2013,26570.0,New England
+810,2010,Virginia,2013,421325.0,Southeast
 812,2010,Washington,2013,360680.0,Far West
-813,2010,Wisconsin,2013,254242.0,Great Lakes
 814,2010,West Virginia,2013,66111.0,Southeast
+813,2010,Wisconsin,2013,254242.0,Great Lakes
 815,2010,Wyoming,2013,40274.0,Rocky Mountain
-816,2011,Alaska,2013,58581.0,Far West
 817,2011,Alabama,2013,181848.0,Southeast
-818,2011,Arkansas,2013,115582.0,Southeast
+816,2011,Alaska,2013,58581.0,Far West
 819,2011,Arizona,2013,258187.0,Southwest
+818,2011,Arkansas,2013,115582.0,Southeast
 820,2011,California,2013,2030468.0,Far West
 821,2011,Colorado,2013,266243.0,Rocky Mountain
 822,2011,Connecticut,2013,235121.0,New England
-823,2011,District of Columbia,2013,110702.0,Mideast
 824,2011,Delaware,2013,58612.0,Mideast
+823,2011,District of Columbia,2013,110702.0,Mideast
 825,2011,Florida,2013,736347.0,Southeast
 826,2011,Georgia,2013,421564.0,Southeast
 827,2011,Hawaii,2013,69755.0,Far West
-828,2011,Iowa,2013,148997.0,Plains
 829,2011,Idaho,2013,56956.0,Rocky Mountain
 830,2011,Illinois,2013,676911.0,Great Lakes
 831,2011,Indiana,2013,292032.0,Great Lakes
+828,2011,Iowa,2013,148997.0,Plains
 832,2011,Kansas,2013,135336.0,Plains
 833,2011,Kentucky,2013,172517.0,Southeast
 834,2011,Louisiana,2013,242666.0,Southeast
-835,2011,Massachusetts,2013,413716.0,New England
-836,2011,Maryland,2013,326237.0,Mideast
 837,2011,Maine,2013,51756.0,New England
+836,2011,Maryland,2013,326237.0,Mideast
+835,2011,Massachusetts,2013,413716.0,New England
 838,2011,Michigan,2013,400924.0,Great Lakes
 839,2011,Minnesota,2013,285669.0,Plains
-840,2011,Missouri,2013,259894.0,Plains
 841,2011,Mississippi,2013,96224.0,Southeast
+840,2011,Missouri,2013,259894.0,Plains
 842,2011,Montana,2013,40250.0,Rocky Mountain
-843,2011,North Carolina,2013,429793.0,Southeast
-844,2011,North Dakota,2013,40508.0,Plains
 845,2011,Nebraska,2013,98237.0,Plains
+849,2011,Nevada,2013,123365.0,Far West
 846,2011,New Hampshire,2013,64122.0,New England
 847,2011,New Jersey,2013,504078.0,Mideast
 848,2011,New Mexico,2013,87334.0,Southwest
-849,2011,Nevada,2013,123365.0,Far West
 850,2011,New York,2013,1231470.0,Mideast
+843,2011,North Carolina,2013,429793.0,Southeast
+844,2011,North Dakota,2013,40508.0,Plains
 851,2011,Ohio,2013,519082.0,Great Lakes
 852,2011,Oklahoma,2013,165424.0,Southwest
 853,2011,Oregon,2013,199488.0,Far West
@@ -860,47 +860,47 @@
 858,2011,Tennessee,2013,264940.0,Southeast
 859,2011,Texas,2013,1357298.0,Southwest
 860,2011,Utah,2013,125754.0,Rocky Mountain
-861,2011,Virginia,2013,430103.0,Southeast
 862,2011,Vermont,2013,27545.0,New England
+861,2011,Virginia,2013,430103.0,Southeast
 863,2011,Washington,2013,370359.0,Far West
-864,2011,Wisconsin,2013,263076.0,Great Lakes
 865,2011,West Virginia,2013,69463.0,Southeast
+864,2011,Wisconsin,2013,263076.0,Great Lakes
 866,2011,Wyoming,2013,43178.0,Rocky Mountain
-867,2012,Alaska,2013,59643.0,Far West
 868,2012,Alabama,2013,189542.0,Southeast
-869,2012,Arkansas,2013,118993.0,Southeast
+867,2012,Alaska,2013,59643.0,Far West
 870,2012,Arizona,2013,271503.0,Southwest
+869,2012,Arkansas,2013,118993.0,Southeast
 871,2012,California,2013,2125717.0,Far West
 872,2012,Colorado,2013,278551.0,Rocky Mountain
 873,2012,Connecticut,2013,242930.0,New England
-874,2012,District of Columbia,2013,111870.0,Mideast
 875,2012,Delaware,2013,60650.0,Mideast
+874,2012,District of Columbia,2013,111870.0,Mideast
 876,2012,Florida,2013,769007.0,Southeast
 877,2012,Georgia,2013,438324.0,Southeast
 878,2012,Hawaii,2013,72512.0,Far West
-879,2012,Iowa,2013,156606.0,Plains
 880,2012,Idaho,2013,58231.0,Rocky Mountain
 881,2012,Illinois,2013,704138.0,Great Lakes
 882,2012,Indiana,2013,306838.0,Great Lakes
+879,2012,Iowa,2013,156606.0,Plains
 883,2012,Kansas,2013,138958.0,Plains
 884,2012,Kentucky,2013,177967.0,Southeast
 885,2012,Louisiana,2013,251369.0,Southeast
-886,2012,Massachusetts,2013,431937.0,New England
-887,2012,Maryland,2013,336481.0,Mideast
 888,2012,Maine,2013,53235.0,New England
+887,2012,Maryland,2013,336481.0,Mideast
+886,2012,Massachusetts,2013,431937.0,New England
 889,2012,Michigan,2013,416769.0,Great Lakes
 890,2012,Minnesota,2013,298272.0,Plains
-891,2012,Missouri,2013,269356.0,Plains
 892,2012,Mississippi,2013,101549.0,Southeast
+891,2012,Missouri,2013,269356.0,Plains
 893,2012,Montana,2013,42140.0,Rocky Mountain
-894,2012,North Carolina,2013,452358.0,Southeast
-895,2012,North Dakota,2013,49509.0,Plains
 896,2012,Nebraska,2013,103062.0,Plains
+900,2012,Nevada,2013,128896.0,Far West
 897,2012,New Hampshire,2013,66111.0,New England
 898,2012,New Jersey,2013,528788.0,Mideast
 899,2012,New Mexico,2013,89188.0,Southwest
-900,2012,Nevada,2013,128896.0,Far West
 901,2012,New York,2013,1280737.0,Mideast
+894,2012,North Carolina,2013,452358.0,Southeast
+895,2012,North Dakota,2013,49509.0,Plains
 902,2012,Ohio,2013,548526.0,Great Lakes
 903,2012,Oklahoma,2013,171432.0,Southwest
 904,2012,Oregon,2013,210242.0,Far West
@@ -911,47 +911,47 @@
 909,2012,Tennessee,2013,280485.0,Southeast
 910,2012,Texas,2013,1463021.0,Southwest
 911,2012,Utah,2013,134483.0,Rocky Mountain
-912,2012,Virginia,2013,445090.0,Southeast
 913,2012,Vermont,2013,28422.0,New England
+912,2012,Virginia,2013,445090.0,Southeast
 914,2012,Washington,2013,390918.0,Far West
-915,2012,Wisconsin,2013,272086.0,Great Lakes
 916,2012,West Virginia,2013,69711.0,Southeast
+915,2012,Wisconsin,2013,272086.0,Great Lakes
 917,2012,Wyoming,2013,41839.0,Rocky Mountain
-918,2013,Alaska,2014,57276.0,Far West
 919,2013,Alabama,2014,194671.0,Southeast
-920,2013,Arkansas,2014,118553.0,Southeast
+918,2013,Alaska,2014,57276.0,Far West
 921,2013,Arizona,2014,274734.0,Southwest
+920,2013,Arkansas,2014,118553.0,Southeast
 922,2013,California,2014,2212991.0,Far West
 923,2013,Colorado,2014,288338.0,Rocky Mountain
 924,2013,Connecticut,2014,246897.0,New England
-925,2013,District of Columbia,2014,111695.0,Mideast
 926,2013,Delaware,2014,60816.0,Mideast
+925,2013,District of Columbia,2014,111695.0,Mideast
 927,2013,Florida,2014,800697.0,Southeast
 928,2013,Georgia,2014,456483.0,Southeast
 929,2013,Hawaii,2014,75095.0,Far West
-930,2013,Iowa,2014,166787.0,Plains
 931,2013,Idaho,2014,61117.0,Rocky Mountain
 932,2013,Illinois,2014,724795.0,Great Lakes
 933,2013,Indiana,2014,311188.0,Great Lakes
+930,2013,Iowa,2014,166787.0,Plains
 934,2013,Kansas,2014,142449.0,Plains
 935,2013,Kentucky,2014,183582.0,Southeast
 936,2013,Louisiana,2014,246660.0,Southeast
-937,2013,Massachusetts,2014,441467.0,New England
-938,2013,Maryland,2014,339409.0,Mideast
 939,2013,Maine,2014,54609.0,New England
+938,2013,Maryland,2014,339409.0,Mideast
+937,2013,Massachusetts,2014,441467.0,New England
 940,2013,Michigan,2014,434674.0,Great Lakes
 941,2013,Minnesota,2014,307270.0,Plains
-942,2013,Missouri,2014,276715.0,Plains
 943,2013,Mississippi,2014,104095.0,Southeast
+942,2013,Missouri,2014,276715.0,Plains
 944,2013,Montana,2014,43006.0,Rocky Mountain
-945,2013,North Carolina,2014,467075.0,Southeast
-946,2013,North Dakota,2014,51048.0,Plains
 947,2013,Nebraska,2014,109364.0,Plains
+951,2013,Nevada,2014,127989.0,Far West
 948,2013,New Hampshire,2014,68701.0,New England
 949,2013,New Jersey,2014,537396.0,Mideast
 950,2013,New Mexico,2014,90828.0,Southwest
-951,2013,Nevada,2014,127989.0,Far West
 952,2013,New York,2014,1341591.0,Mideast
+945,2013,North Carolina,2014,467075.0,Southeast
+946,2013,North Dakota,2014,51048.0,Plains
 953,2013,Ohio,2014,562845.0,Great Lakes
 954,2013,Oklahoma,2014,176398.0,Southwest
 955,2013,Oregon,2014,204867.0,Far West
@@ -962,47 +962,47 @@
 960,2013,Tennessee,2014,290125.0,Southeast
 961,2013,Texas,2014,1557193.0,Southwest
 962,2013,Utah,2014,134974.0,Rocky Mountain
-963,2013,Virginia,2014,454984.0,Southeast
 964,2013,Vermont,2014,28838.0,New England
+963,2013,Virginia,2014,454984.0,Southeast
 965,2013,Washington,2014,407160.0,Far West
-966,2013,Wisconsin,2014,284728.0,Great Lakes
 967,2013,West Virginia,2014,70595.0,Southeast
+966,2013,Wisconsin,2014,284728.0,Great Lakes
 968,2013,Wyoming,2014,41782.0,Rocky Mountain
-969,2014,Alaska,2014,57080.0,Far West
 970,2014,Alabama,2014,199440.0,Southeast
-971,2014,Arkansas,2014,121395.0,Southeast
+969,2014,Alaska,2014,57080.0,Far West
 972,2014,Arizona,2014,284156.0,Southwest
+971,2014,Arkansas,2014,121395.0,Southeast
 973,2014,California,2014,2311616.0,Far West
 974,2014,Colorado,2014,306663.0,Rocky Mountain
 975,2014,Connecticut,2014,253036.0,New England
-976,2014,District of Columbia,2014,115473.0,Mideast
 977,2014,Delaware,2014,62756.0,Mideast
+976,2014,District of Columbia,2014,115473.0,Mideast
 978,2014,Florida,2014,839944.0,Southeast
 979,2014,Georgia,2014,476483.0,Southeast
 980,2014,Hawaii,2014,77389.0,Far West
-981,2014,Iowa,2014,170613.0,Plains
 982,2014,Idaho,2014,63952.0,Rocky Mountain
 983,2014,Illinois,2014,745875.0,Great Lakes
 984,2014,Indiana,2014,317840.0,Great Lakes
+981,2014,Iowa,2014,170613.0,Plains
 985,2014,Kansas,2014,147075.0,Plains
 986,2014,Kentucky,2014,188602.0,Southeast
 987,2014,Louisiana,2014,251397.0,Southeast
-988,2014,Massachusetts,2014,459937.0,New England
-989,2014,Maryland,2014,348631.0,Mideast
 990,2014,Maine,2014,55838.0,New England
+989,2014,Maryland,2014,348631.0,Mideast
+988,2014,Massachusetts,2014,459937.0,New England
 991,2014,Michigan,2014,451516.0,Great Lakes
 992,2014,Minnesota,2014,316204.0,Plains
-993,2014,Missouri,2014,284462.0,Plains
 994,2014,Mississippi,2014,104851.0,Southeast
+993,2014,Missouri,2014,284462.0,Plains
 995,2014,Montana,2014,44269.0,Rocky Mountain
-996,2014,North Carolina,2014,483126.0,Southeast
-997,2014,North Dakota,2014,55136.0,Plains
 998,2014,Nebraska,2014,112159.0,Plains
+1002,2014,Nevada,2014,132064.0,Far West
 999,2014,New Hampshire,2014,71552.0,New England
 1000,2014,New Jersey,2014,549099.0,Mideast
 1001,2014,New Mexico,2014,92959.0,Southwest
-1002,2014,Nevada,2014,132064.0,Far West
 1003,2014,New York,2014,1404518.0,Mideast
+996,2014,North Carolina,2014,483126.0,Southeast
+997,2014,North Dakota,2014,55136.0,Plains
 1004,2014,Ohio,2014,583261.0,Great Lakes
 1005,2014,Oklahoma,2014,183501.0,Southwest
 1006,2014,Oregon,2014,215677.0,Far West
@@ -1013,47 +1013,47 @@
 1011,2014,Tennessee,2014,300604.0,Southeast
 1012,2014,Texas,2014,1648036.0,Southwest
 1013,2014,Utah,2014,141410.0,Rocky Mountain
-1014,2014,Virginia,2014,463613.0,Southeast
 1015,2014,Vermont,2014,29613.0,New England
+1014,2014,Virginia,2014,463613.0,Southeast
 1016,2014,Washington,2014,427052.0,Far West
-1017,2014,Wisconsin,2014,292891.0,Great Lakes
 1018,2014,West Virginia,2014,75337.0,Southeast
+1017,2014,Wisconsin,2014,292891.0,Great Lakes
 1019,2014,Wyoming,2014,44190.0,Rocky Mountain
-1020,2015,Alaska,2016,53180.0,Far West
 1021,2015,Alabama,2016,201033.66666666666,Southeast
-1022,2015,Arkansas,2016,119214.66666666667,Southeast
+1020,2015,Alaska,2016,53180.0,Far West
 1023,2015,Arizona,2016,292866.6666666667,Southwest
+1022,2015,Arkansas,2016,119214.66666666667,Southeast
 1024,2015,California,2016,2507470.6666666665,Far West
 1025,2015,Colorado,2016,314441.3333333333,Rocky Mountain
 1026,2015,Connecticut,2016,258198.0,New England
-1027,2015,District of Columbia,2016,121458.33333333333,Mideast
 1028,2015,Delaware,2016,69080.0,Mideast
+1027,2015,District of Columbia,2016,121458.33333333333,Mideast
 1029,2015,Florida,2016,889744.6666666666,Southeast
 1030,2015,Georgia,2016,504868.6666666667,Southeast
 1031,2015,Hawaii,2016,80953.0,Far West
-1032,2015,Iowa,2016,176942.33333333334,Plains
 1033,2015,Idaho,2016,65662.0,Rocky Mountain
 1034,2015,Illinois,2016,775139.0,Great Lakes
 1035,2015,Indiana,2016,335152.3333333333,Great Lakes
+1032,2015,Iowa,2016,176942.33333333334,Plains
 1036,2015,Kansas,2016,152962.66666666666,Plains
 1037,2015,Kentucky,2016,193147.0,Southeast
 1038,2015,Louisiana,2016,237532.0,Southeast
-1039,2015,Massachusetts,2016,491360.3333333333,New England
-1040,2015,Maryland,2016,367698.6666666667,Mideast
 1041,2015,Maine,2016,57799.666666666664,New England
+1040,2015,Maryland,2016,367698.6666666667,Mideast
+1039,2015,Massachusetts,2016,491360.3333333333,New England
 1042,2015,Michigan,2016,473910.0,Great Lakes
 1043,2015,Minnesota,2016,327769.6666666667,Plains
-1044,2015,Missouri,2016,294163.0,Plains
 1045,2015,Mississippi,2016,106386.66666666667,Southeast
+1044,2015,Missouri,2016,294163.0,Plains
 1046,2015,Montana,2016,46064.666666666664,Rocky Mountain
-1047,2015,North Carolina,2016,502929.3333333333,Southeast
-1048,2015,North Dakota,2016,55435.333333333336,Plains
 1049,2015,Nebraska,2016,114140.66666666667,Plains
+1053,2015,Nevada,2016,142249.33333333334,Far West
 1050,2015,New Hampshire,2016,74893.66666666667,New England
 1051,2015,New Jersey,2016,570053.6666666666,Mideast
 1052,2015,New Mexico,2016,93298.33333333333,Southwest
-1053,2015,Nevada,2016,142249.33333333334,Far West
 1054,2015,New York,2016,1451792.6666666667,Mideast
+1047,2015,North Carolina,2016,502929.3333333333,Southeast
+1048,2015,North Dakota,2016,55435.333333333336,Plains
 1055,2015,Ohio,2016,609828.6666666666,Great Lakes
 1056,2015,Oklahoma,2016,186723.66666666666,Southwest
 1057,2015,Oregon,2016,217775.33333333334,Far West
@@ -1064,47 +1064,47 @@
 1062,2015,Tennessee,2016,319142.6666666667,Southeast
 1063,2015,Texas,2016,1608061.3333333333,Southwest
 1064,2015,Utah,2016,150137.66666666666,Rocky Mountain
-1065,2015,Virginia,2016,484962.3333333333,Southeast
 1066,2015,Vermont,2016,30462.0,New England
+1065,2015,Virginia,2016,484962.3333333333,Southeast
 1067,2015,Washington,2016,449064.6666666667,Far West
-1068,2015,Wisconsin,2016,303361.0,Great Lakes
 1069,2015,West Virginia,2016,73690.33333333333,Southeast
+1068,2015,Wisconsin,2016,303361.0,Great Lakes
 1070,2015,Wyoming,2016,39374.0,Rocky Mountain
-1071,2016,Alaska,2016,50713.0,Far West
 1072,2016,Alabama,2016,204861.25,Southeast
-1073,2016,Arkansas,2016,120688.75,Southeast
+1071,2016,Alaska,2016,50713.0,Far West
 1074,2016,Arizona,2016,302951.75,Southwest
+1073,2016,Arkansas,2016,120688.75,Southeast
 1075,2016,California,2016,2602672.0,Far West
 1076,2016,Colorado,2016,323691.75,Rocky Mountain
 1077,2016,Connecticut,2016,263378.75,New England
-1078,2016,District of Columbia,2016,126815.25,Mideast
 1079,2016,Delaware,2016,70387.0,Mideast
+1078,2016,District of Columbia,2016,126815.25,Mideast
 1080,2016,Florida,2016,926816.75,Southeast
 1081,2016,Georgia,2016,525360.5,Southeast
 1082,2016,Hawaii,2016,83916.5,Far West
-1083,2016,Iowa,2016,178765.25,Plains
 1084,2016,Idaho,2016,67275.25,Rocky Mountain
 1085,2016,Illinois,2016,791607.25,Great Lakes
 1086,2016,Indiana,2016,341908.75,Great Lakes
+1083,2016,Iowa,2016,178765.25,Plains
 1087,2016,Kansas,2016,153257.5,Plains
 1088,2016,Kentucky,2016,197043.5,Southeast
 1089,2016,Louisiana,2016,235108.75,Southeast
-1090,2016,Massachusetts,2016,507912.5,New England
-1091,2016,Maryland,2016,378279.75,Mideast
 1092,2016,Maine,2016,59274.75,New England
+1091,2016,Maryland,2016,378279.75,Mideast
+1090,2016,Massachusetts,2016,507912.5,New England
 1093,2016,Michigan,2016,487239.0,Great Lakes
 1094,2016,Minnesota,2016,335147.0,Plains
-1095,2016,Missouri,2016,300891.0,Plains
 1096,2016,Mississippi,2016,107680.0,Southeast
+1095,2016,Missouri,2016,300891.0,Plains
 1097,2016,Montana,2016,45994.5,Rocky Mountain
-1098,2016,North Carolina,2016,517903.5,Southeast
-1099,2016,North Dakota,2016,52089.25,Plains
 1100,2016,Nebraska,2016,115345.25,Plains
+1104,2016,Nevada,2016,147475.25,Far West
 1101,2016,New Hampshire,2016,77855.5,New England
 1102,2016,New Jersey,2016,581122.5,Mideast
 1103,2016,New Mexico,2016,93296.25,Southwest
-1104,2016,Nevada,2016,147475.25,Far West
 1105,2016,New York,2016,1487998.0,Mideast
+1098,2016,North Carolina,2016,517903.5,Southeast
+1099,2016,North Dakota,2016,52089.25,Plains
 1106,2016,Ohio,2016,625715.25,Great Lakes
 1107,2016,Oklahoma,2016,182937.5,Southwest
 1108,2016,Oregon,2016,226820.25,Far West
@@ -1115,47 +1115,47 @@
 1113,2016,Tennessee,2016,328770.0,Southeast
 1114,2016,Texas,2016,1616800.75,Southwest
 1115,2016,Utah,2016,156352.0,Rocky Mountain
-1116,2016,Virginia,2016,494349.0,Southeast
 1117,2016,Vermont,2016,31091.75,New England
+1116,2016,Virginia,2016,494349.0,Southeast
 1118,2016,Washington,2016,469739.5,Far West
-1119,2016,Wisconsin,2016,309536.5,Great Lakes
 1120,2016,West Virginia,2016,73373.5,Southeast
+1119,2016,Wisconsin,2016,309536.5,Great Lakes
 1121,2016,Wyoming,2016,37857.75,Rocky Mountain
-1122,2017,Alaska,2018,51686.75,Far West
 1123,2017,Alabama,2018,211665.75,Southeast
-1124,2017,Arkansas,2018,123713.75,Southeast
+1122,2017,Alaska,2018,51686.75,Far West
 1125,2017,Arizona,2018,326539.5,Southwest
+1124,2017,Arkansas,2018,123713.75,Southeast
 1126,2017,California,2018,2809922.5,Far West
 1127,2017,Colorado,2018,347195.75,Rocky Mountain
 1128,2017,Connecticut,2018,265535.25,New England
-1129,2017,District of Columbia,2018,134901.25,Mideast
 1130,2017,Delaware,2018,72167.25,Mideast
+1129,2017,District of Columbia,2018,134901.25,Mideast
 1131,2017,Florida,2018,979464.5,Southeast
 1132,2017,Georgia,2018,562120.75,Southeast
 1133,2017,Hawaii,2018,89043.5,Far West
-1134,2017,Iowa,2018,182978.75,Plains
 1135,2017,Idaho,2018,72442.25,Rocky Mountain
 1136,2017,Illinois,2018,825810.5,Great Lakes
 1137,2017,Indiana,2018,351072.0,Great Lakes
+1134,2017,Iowa,2018,182978.75,Plains
 1138,2017,Kansas,2018,160083.25,Plains
 1139,2017,Kentucky,2018,200990.75,Southeast
 1140,2017,Louisiana,2018,238138.5,Southeast
-1141,2017,Massachusetts,2018,540949.0,New England
-1142,2017,Maryland,2018,398415.5,Mideast
 1143,2017,Maine,2018,61720.25,New England
+1142,2017,Maryland,2018,398415.5,Mideast
+1141,2017,Massachusetts,2018,540949.0,New England
 1144,2017,Michigan,2018,505844.75,Great Lakes
 1145,2017,Minnesota,2018,352267.0,Plains
-1146,2017,Missouri,2018,304050.5,Plains
 1147,2017,Mississippi,2018,109901.0,Southeast
+1146,2017,Missouri,2018,304050.5,Plains
 1148,2017,Montana,2018,47073.25,Rocky Mountain
-1149,2017,North Carolina,2018,537888.5,Southeast
-1150,2017,North Dakota,2018,51612.25,Plains
 1151,2017,Nebraska,2018,118545.75,Plains
+1155,2017,Nevada,2018,157020.75,Far West
 1152,2017,New Hampshire,2018,81179.0,New England
 1153,2017,New Jersey,2018,599314.75,Mideast
 1154,2017,New Mexico,2018,94238.25,Southwest
-1155,2017,Nevada,2018,157020.75,Far West
 1156,2017,New York,2018,1598457.0,Mideast
+1149,2017,North Carolina,2018,537888.5,Southeast
+1150,2017,North Dakota,2018,51612.25,Plains
 1157,2017,Ohio,2018,645819.75,Great Lakes
 1158,2017,Oklahoma,2018,187347.75,Southwest
 1159,2017,Oregon,2018,226057.25,Far West
@@ -1166,47 +1166,47 @@
 1164,2017,Tennessee,2018,347835.25,Southeast
 1165,2017,Texas,2018,1654494.5,Southwest
 1166,2017,Utah,2018,165702.75,Rocky Mountain
-1167,2017,Virginia,2018,510424.75,Southeast
 1168,2017,Vermont,2018,32623.5,New England
+1167,2017,Virginia,2018,510424.75,Southeast
 1169,2017,Washington,2018,522425.5,Far West
-1170,2017,Wisconsin,2018,321584.5,Great Lakes
 1171,2017,West Virginia,2018,73099.25,Southeast
+1170,2017,Wisconsin,2018,321584.5,Great Lakes
 1172,2017,Wyoming,2018,37625.0,Rocky Mountain
-1173,2018,Alaska,2018,54011.25,Far West
 1174,2018,Alabama,2018,221126.25,Southeast
-1175,2018,Arkansas,2018,128081.75,Southeast
+1173,2018,Alaska,2018,54011.25,Far West
 1176,2018,Arizona,2018,346791.75,Southwest
+1175,2018,Arkansas,2018,128081.75,Southeast
 1177,2018,California,2018,2968117.5,Far West
 1178,2018,Colorado,2018,368795.25,Rocky Mountain
 1179,2018,Connecticut,2018,274179.5,New England
-1180,2018,District of Columbia,2018,140280.0,Mideast
 1181,2018,Delaware,2018,74973.25,Mideast
+1180,2018,District of Columbia,2018,140280.0,Mideast
 1182,2018,Florida,2018,1036323.25,Southeast
 1183,2018,Georgia,2018,588171.75,Southeast
 1184,2018,Hawaii,2018,92027.0,Far West
-1185,2018,Iowa,2018,190150.25,Plains
 1186,2018,Idaho,2018,77004.0,Rocky Mountain
 1187,2018,Illinois,2018,864587.25,Great Lakes
 1188,2018,Indiana,2018,366707.0,Great Lakes
+1185,2018,Iowa,2018,190150.25,Plains
 1189,2018,Kansas,2018,167042.0,Plains
 1190,2018,Kentucky,2018,208339.75,Southeast
 1191,2018,Louisiana,2018,252117.25,Southeast
-1192,2018,Massachusetts,2018,567255.0,New England
-1193,2018,Maryland,2018,412921.25,Mideast
 1194,2018,Maine,2018,64350.5,New England
+1193,2018,Maryland,2018,412921.25,Mideast
+1192,2018,Massachusetts,2018,567255.0,New England
 1195,2018,Michigan,2018,528008.5,Great Lakes
 1196,2018,Minnesota,2018,368317.25,Plains
-1197,2018,Missouri,2018,317749.5,Plains
 1198,2018,Mississippi,2018,114107.0,Southeast
+1197,2018,Missouri,2018,317749.5,Plains
 1199,2018,Montana,2018,48970.25,Rocky Mountain
-1200,2018,North Carolina,2018,565800.75,Southeast
-1201,2018,North Dakota,2018,54714.25,Plains
 1202,2018,Nebraska,2018,122966.25,Plains
+1206,2018,Nevada,2018,165803.25,Far West
 1203,2018,New Hampshire,2018,84712.0,New England
 1204,2018,New Jersey,2018,624851.75,Mideast
 1205,2018,New Mexico,2018,99434.75,Southwest
-1206,2018,Nevada,2018,165803.25,Far West
 1207,2018,New York,2018,1676350.25,Mideast
+1200,2018,North Carolina,2018,565800.75,Southeast
+1201,2018,North Dakota,2018,54714.25,Plains
 1208,2018,Ohio,2018,676192.5,Great Lakes
 1209,2018,Oklahoma,2018,199975.75,Southwest
 1210,2018,Oregon,2018,238683.75,Far West
@@ -1217,47 +1217,47 @@
 1215,2018,Tennessee,2018,365601.75,Southeast
 1216,2018,Texas,2018,1775796.5,Southwest
 1217,2018,Utah,2018,177336.25,Rocky Mountain
-1218,2018,Virginia,2018,534448.75,Southeast
 1219,2018,Vermont,2018,33725.25,New England
+1218,2018,Virginia,2018,534448.75,Southeast
 1220,2018,Washington,2018,563150.5,Far West
-1221,2018,Wisconsin,2018,336971.5,Great Lakes
 1222,2018,West Virginia,2018,77477.0,Southeast
+1221,2018,Wisconsin,2018,336971.5,Great Lakes
 1223,2018,Wyoming,2018,39371.25,Rocky Mountain
-1224,2019,Alaska,2019,55406.25,Far West
 1225,2019,Alabama,2019,230968.25,Southeast
-1226,2019,Arkansas,2019,133180.75,Southeast
+1224,2019,Alaska,2019,55406.25,Far West
 1227,2019,Arizona,2019,366190.0,Southwest
+1226,2019,Arkansas,2019,133180.75,Southeast
 1228,2019,California,2019,3137469.0,Far West
 1229,2019,Colorado,2019,390284.0,Rocky Mountain
 1230,2019,Connecticut,2019,285640.25,New England
-1231,2019,District of Columbia,2019,146194.5,Mideast
 1232,2019,Delaware,2019,75415.25,Mideast
+1231,2019,District of Columbia,2019,146194.5,Mideast
 1233,2019,Florida,2019,1093350.75,Southeast
 1234,2019,Georgia,2019,616333.25,Southeast
 1235,2019,Hawaii,2019,97281.5,Far West
-1236,2019,Iowa,2019,194788.5,Plains
 1237,2019,Idaho,2019,80911.0,Rocky Mountain
 1238,2019,Illinois,2019,897123.75,Great Lakes
 1239,2019,Indiana,2019,377104.5,Great Lakes
+1236,2019,Iowa,2019,194788.5,Plains
 1240,2019,Kansas,2019,173142.25,Plains
 1241,2019,Kentucky,2019,214671.5,Southeast
 1242,2019,Louisiana,2019,263856.5,Southeast
-1243,2019,Massachusetts,2019,595558.75,New England
-1244,2019,Maryland,2019,428338.5,Mideast
 1245,2019,Maine,2019,67518.5,New England
+1244,2019,Maryland,2019,428338.5,Mideast
+1243,2019,Massachusetts,2019,595558.75,New England
 1246,2019,Michigan,2019,541550.75,Great Lakes
 1247,2019,Minnesota,2019,380855.0,Plains
-1248,2019,Missouri,2019,332082.0,Plains
 1249,2019,Mississippi,2019,118779.75,Southeast
+1248,2019,Missouri,2019,332082.0,Plains
 1250,2019,Montana,2019,52169.25,Rocky Mountain
-1251,2019,North Carolina,2019,587711.0,Southeast
-1252,2019,North Dakota,2019,57036.5,Plains
 1253,2019,Nebraska,2019,127036.75,Plains
+1257,2019,Nevada,2019,177614.75,Far West
 1254,2019,New Hampshire,2019,88594.75,New England
 1255,2019,New Jersey,2019,644841.5,Mideast
 1256,2019,New Mexico,2019,104001.25,Southwest
-1257,2019,Nevada,2019,177614.75,Far West
 1258,2019,New York,2019,1731910.5,Mideast
+1251,2019,North Carolina,2019,587711.0,Southeast
+1252,2019,North Dakota,2019,57036.5,Plains
 1259,2019,Ohio,2019,698458.0,Great Lakes
 1260,2019,Oklahoma,2019,206058.0,Southwest
 1261,2019,Oregon,2019,251604.5,Far West
@@ -1268,9 +1268,9 @@
 1266,2019,Tennessee,2019,380137.75,Southeast
 1267,2019,Texas,2019,1886956.0,Southwest
 1268,2019,Utah,2019,188501.25,Rocky Mountain
-1269,2019,Virginia,2019,554211.25,Southeast
 1270,2019,Vermont,2019,34785.0,New England
+1269,2019,Virginia,2019,554211.25,Southeast
 1271,2019,Washington,2019,599607.5,Far West
-1272,2019,Wisconsin,2019,347306.0,Great Lakes
 1273,2019,West Virginia,2019,78189.5,Southeast
+1272,2019,Wisconsin,2019,347306.0,Great Lakes
 1274,2019,Wyoming,2019,39646.25,Rocky Mountain
