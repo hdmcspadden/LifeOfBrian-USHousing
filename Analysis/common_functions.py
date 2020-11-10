@@ -25,9 +25,9 @@ def inflation_adjust(df):
     # adjust GDP inflation for this specific case only
 
     # get the inflation dictionary
-    inf_data = create_inf_dict('2019')
+    inf_data = create_inf_dict(2019)
 
-    df['inf-adjusted'] = round(df['GDP']/df['current dollars'].map(inf_dict_2019))
+    df['inf-adjusted'] = round(df['GDP']/df['current dollars'].map(inf_data))
     
     return df
 
