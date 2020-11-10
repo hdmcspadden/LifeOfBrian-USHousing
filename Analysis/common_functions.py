@@ -32,16 +32,16 @@ def inflation_adjust(df):
     return df
 
 # work in progress
-def inflation_adjust_set(year):
+# def inflation_adjust_set(year):
     # given a year of data (column or row of data), adjust an entire set of data for the given year
 
     # get the inflation dictionary
     # inf_data = create_inf_dict('2019')
-    inf_data = {'2000':1.2,'3000':3}
+#    inf_data = {'2000':1.2,'3000':3}
 
-    a = inf_data[year.name]
+#    a = inf_data[year.name]
 
-    return a
+#    return a
 
 
 # ---------------------------------------
@@ -58,9 +58,9 @@ def inflation_adjust_set(year):
 # apply accross rows instead (year)
 
 
-df = pd.DataFrame
+# df = pd.DataFrame
 
-d = {'2000': [1.0,2.3,3.4,5.6]}
-df = pd.DataFrame(data=d)
+# d = {'2000': [1.0,2.3,3.4,5.6]}
+# df = pd.DataFrame(data=d)
 
-print(inflation_adjust_set(df))
+# print(inflation_adjust_set(df))
